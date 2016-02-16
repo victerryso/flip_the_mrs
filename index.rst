@@ -28,3 +28,11 @@ associations.
    /Week_02/index
    /Week_03/index
    /Week_04/index
+   /Week_05/index
+   /Week_06/index
+   /Week_07/index
+   /Week_08/index
+   /Week_09/index
+   /Week_10/index
+   /Week_11/index
+   /Week_12/index

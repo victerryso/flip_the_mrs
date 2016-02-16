@@ -1,10 +1,10 @@
-Medical Imaging
+Piazza
 =============================================
 
-Check out this website for extra info at `Medical Imagining.
-<#>`_
+.. figure:: /Images/piazza_logo.png
+   :target: https://piazza.com/
+   :width: 480px
+   :alt: Piazza
+   :figclass: reference
 
-.. figure:: /Images/medical_imaging.jpg
-   :target: #
-   :alt: Medical Imaging
-   :figclass: align-center reference
+Post to `Piazza <https://piazza.com/>`_ what you learnt.

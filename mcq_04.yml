@@ -1,0 +1,405 @@
+
+-
+  question: The hand consists of how many bones?
+  answer: C
+  options:
+    - 8
+    - 14
+    - 27
+    - 32
+-
+  question: How many phalanges are there in the hand?
+  answer: A
+  options:
+    - 14
+    - 27
+    - 30
+    - 32
+-
+  question: At the lateral (thumb) side of the hand, the digit is called the
+  answer: B
+  options:
+    - lateral digit
+    - first digit
+    - medial digit
+    - fifth digit
+-
+  question: The palm of the hand is formed by
+  answer: B
+  options:
+    - five carpals
+    - five metacarpals
+    - eight carpals
+    - eight metacarpals
+-
+  question: Which of the following bones make up the wrist?
+  answer: C
+  options:
+    - five carpals
+    - five metacarpals
+    - eight carpals
+    - eight metacarpals
+-
+  question: How many phalanges are there in the thumb?
+  answer: B
+  options:
+    - one
+    - two
+    - three
+    - four
+-
+  question: The patient position most commonly used to perform a radiograph of a finger (digit) is
+  answer: C
+  options:
+    - AP
+    - PA
+    - sitting at the end of the table
+    - standing at the end of the table
+-
+  question: For a PA projection of the second digit, the central ray is directed to the
+  answer: B
+  options:
+    - distal interphalangeal joint
+    - proximal interphalangeal joint
+    - metacarpophalangeal joint
+    - carpometacarpal joint
+-
+  question: For a lateral projection of the second through fifth digits, the central ray is directed
+  answer: A
+  options:
+    - 0 degrees
+    - 5 degrees caudad
+    - 5 degrees cephalad
+    - 2 to 5 degrees cephalad
+-
+  question: The most common oblique projection of the second through fifth digits is
+  answer: D
+  options:
+    - AP with medial rotation
+    - AP with lateral rotation
+    - PA with medial rotation
+    - PA with lateral rotation
+-
+  question: How many degrees is the hand rotated for a PA oblique projection of the digit?
+  answer: C
+  options:
+    - 25
+    - 40
+    - 45
+    - 40 to 45
+-
+  question: Which of the following objects would be needed to perform a PA oblique projection of a finger?
+  answer: [ B, C ]
+  options:
+    - 2-inch block
+    - lead shield
+    - 45-degree foam wedge
+-
+  question: For a PA oblique projection of the first digit (thumb) the hand is placed in the
+  answer: B
+  options:
+    - supine position
+    - prone position
+    - medial rotation position
+    - lateral rotation position
+-
+  question: For the AP projection of the thumb, Lewis suggests angling the central ray towards the wrist to demonstrate the first metacarpal free of the sesamoids and of the soft tissue of the palm. What is the suggested central-ray angle?
+  answer: D
+  options:
+    - 10 degrees
+    - 15 degrees
+    - 5 to 10 degrees
+    - 10 to 15 degrees
+-
+  question: The central-ray angulation for the PA projection of the hand is
+  answer: A
+  options:
+    - 0 degrees
+    - 5 degrees
+    - 7 degrees
+    - 5 to 7 degrees
+-
+  question: For a PA projection of the hand, the central ray is directed to the
+  answer: B
+  options:
+    - second MCP joint
+    - third MCP joint
+    - fourth MCP joint
+    - third PIP joint
+-
+  question: Which of the following positions are used to demonstrate the hand in the lateral projection?
+  answer: [ A, B, C ]
+  options:
+    - ulnar surface down, hand extended
+    - radial surface down, hand extended
+    - ulnar surface down, finger in fan lateral
+-
+  question: For a lateral projection of the hand, the central ray is directed to the
+  answer: A
+  options:
+    - second digit MCP joint
+    - PIP joint
+    - distal PIP joint
+    - midmetacarpal area
+-
+  question: Which of the following general procedures should be observed when performing x-ray examinations of the upper limb?
+  answer: [ A, C ]
+  options:
+    - remove rings and watches
+    - have the patient change into a gown
+    - use an R or L marker on each image
+-
+  question: Which of the following would not be needed for radiographic examinations of the upper limb?
+  answer: C
+  options:
+    - lead apron
+    - sandbags
+    - compression band
+    - foam wedges
+-
+  question: Which of the following devices is necessary to demonstrate the IP joints with a PA oblique projection of the hand?
+  answer: D
+  options:
+    - finger holder strap
+    - 20–degree-angle block
+    - 45-degree foam block
+    - 45-degree foam wedge
+-
+  question: A fracture of the metacarpal neck is known as a ____ fracture
+  answer: C
+  options:
+    - Colle's
+    - Smith's
+    - Boxer's
+    - Bennett's
+-
+  question: What is the name of the joint found between the proximal and distal phalanges of the first digit?
+  answer: D
+  options:
+    - Proximal interphalangeal
+    - Distal interphalangeal
+    - Metacarpophalangeal
+    - Interphalangeal
+-
+  question: The interphalangeal joints have a(n) ____ type of joint movement
+  answer: D
+  options:
+    - plane
+    - sellar
+    - ellipsoidal
+    - ginglymus
+-
+  question: The first metacarpophalangeal joint has a(n) ____ type of joint movement
+  answer: D
+  options:
+    - plane
+    - trochoidal
+    - sellar
+    - ellipsoidal
+-
+  question: The first carpometacarpal joint is classified as a(n)____ joint
+  answer: A
+  options:
+    - sellar
+    - ginglymus
+    - plane
+    - trochoidal
+-
+  question: An ellipsoidal joint allows movement in ____ directions
+  answer: C
+  options:
+    - two
+    - all
+    - four
+    - six
+-
+  question: What is the distance between the tabletop and Bucky tray on most floating tabletop type of tables?
+  answer: D
+  options:
+    - 0.5 to 1 inch (1.3 to 2.5 cm)
+    - 1 to 2 inches (2.5 to 5.1 cm)
+    - 2 to 3 inches (5 to 7.6 cm)
+    - 3 to 4 inches (8 to 10 cm)
+-
+  question: A general positioning rule is to place the long axis of the part ____ to the long axis of the image receptor
+  answer: D
+  options:
+    - perpendicular
+    - adjacent
+    - axial
+    - parallel
+-
+  question: How should the original exposure factors be changed with a fiberglass cast applied for a wrist or forearm radiographic procedure?
+  answer: C
+  options:
+    - No change
+    - Increase mAs 50% to 60%
+    - Increase mAs 25% to 30%
+    - Increase 8 to 10 kV
+-
+  question: Grids are generally not required unless the anatomy measures greater than
+  answer: B
+  options:
+    - 8 cm.
+    - 10 cm.
+    - 14 cm
+    - 5 cm
+-
+  question: Where is the CR placed for a PA projection of the third digit?
+  answer: D
+  options:
+    - At the distal interphalangeal joint
+    - At the metacarpophalangeal joint
+    - At the head of the third metacarpal
+    - At the proximal interphalangeal joint
+-
+  question: Nuclear medicine is generally more sensitive than radiography for assessing bones of the upper limb for either metastatic bone lesions or stress fractures
+  answer: A
+  options:
+    - True
+    - False
+-
+  question: A “skier’s thumb” is an injury of the
+  answer: C
+  options:
+    - scaphoid
+    - pronator fat stripe
+    - ulnar collateral ligament
+    - trapezium
+-
+  question: Local or generalized infection of bone or bone marrow caused by bacteria introduced by trauma or surgery is a condition termed
+  answer: A
+  options:
+    - osteomyelitis.
+    - Paget’s disease.
+    - osteoarthritis
+    - cellulitis
+
+-
+  question: From a pronated position, which of the following is required for a PA oblique projection of the fourth digit of the hand?
+  answer: D
+  options:
+    - 45° medial rotation
+    - 30° to 35° lateral rotation
+    - 30° to 35° medial rotation
+    - 45° lateral rotation
+-
+  question: Why is it recommended that the medial oblique projection be performed rather than the lateral oblique for the second digit of the hand?
+  answer: A
+  options:
+    - To minimize OID
+    - To be more comfortable for patient
+    - To open up joints better
+    - To improve radiographic contrast
+-
+  question: Where is the CR centered for a PA projection of the hand?
+  answer: B
+  options:
+    - At the third proximal interphalangeal joint
+    - At the third metacarpophalangeal joint
+    - At the base of the third metacarpal
+    - At the third distal interphalangeal joint
+-
+  question: Why is it important to keep the phalanges parallel to the IR for a PA oblique projection of the hand?
+  answer: A
+  options:
+    - Prevents foreshortening of phalanges and obscuring of interphalangeal joints
+    - Prevents foreshortening of radiocarpal joint
+    - Opens up the carpometacarpal joints
+    - Demonstrates the sesamoid bones near the 1st interphalangeal joint
+-
+  question: Which specific anatomy is better visualized with a fan lateral as compared with the other lateral projections of the hand?
+  answer: C
+  options:
+    - Sesamoid bones
+    - Carpals
+    - Phalanges
+    - Carpometacarpal joints
+-
+  question: Which projection best demonstrates pathology involving the first carpometacarpal joint?
+  answer: A
+  options:
+    - AP thumb, modified Robert’s method
+    - PA oblique thumb
+    - Norgaard method
+    - PA scaphoid, ulnar deviation wrist projection
+-
+  question: Which of the following projections of the wrist will best demonstrate the wrist joint and intercarpal spaces if the patient can assume this position?
+  answer: A
+  options:
+    - AP
+    - PA
+    - Gaynor-Hart
+    - 30° PA oblique
+-
+  question: The CR placement for an AP projection (modified Robert’s method) of the thumb is at the
+  answer: A
+  options:
+    - first carpometacarpal joint.
+    - first proximal interphalangeal joint.
+    - first distal interphalangeal joint
+    - midproximal phalanx of the first digit
+-
+  question: Why should the hand be slightly arched for a PA projection of the wrist?
+  answer: D
+  options:
+    - To provide more comfort for the patient
+    - To demonstrate any possible nondisplaced metacarpal fractures
+    - To open up the carpometacarpal joints
+    - To reduce the OID of the carpal bones
+-
+  question: How much rotation of the hands is required for the AP oblique bilateral (Norgaard method) hand projection?
+  answer: A
+  options:
+    - 45°
+    - 30° to 35°
+    - 5° to 10°
+    - 20°
+-
+  question: "Situation: A patient enters the ER with a Smith fracture. Which region of the upper limb must be radiographed to demonstrate this injury?"
+  answer: C
+  options:
+    - Trapezium
+    - Elbow
+    - Wrist and forearm
+    - Hand
+-
+  question: "Situation: A radiograph of a PA oblique of the hand reveals that the midaspect of the fourth and fifth metacarpals are superimposed. What specific positioning error has been committed?"
+  answer: A
+  options:
+    - Excessive rotation of the hand and/or wrist
+    - Insufficient rotation of the hand and/or wrist
+    - Incorrect CR angulation
+    - Fingers of the hand are not parallel to IR
+-
+  question: "Situation: A radiograph of a PA projection of the hand reveals that the distal radius and ulna and the carpals were cut off. What should the technologist do to correct this problem?"
+  answer: D
+  options:
+    - Accept the radiograph. Carpals and distal radius and ulna are not part of a hand study.
+    - Make sure the carpals, distal radius, and ulna are included on the lateral projection.
+    - If the injury to the patient did not involve the carpal region and distal forearm, do not repeat it
+    - Repeat the PA projection to include all the carpals and about 1 inch (2.5 cm) of the distal radius and ulna
+-
+  question: "Situation: A patient enters the ER with a possible Bennett’s fracture. Which of the following routines should be performed to confirm this diagnosis?"
+  answer: D
+  options:
+    - Finger
+    - Wrist
+    - Forearm
+    - Thumb
+-
+  question: The AP oblique bilateral hands projection (“ball-catcher’s position”) is performed to evaluate for early signs of
+  answer: C
+  options:
+    - gout.
+    - osteoporosis.
+    - rheumatoid arthritis
+    - bursitis
+-
+  question: "Situation: A patient arrives in radiology with a metal foreign body in the palm of the hand. Which of the following hand routines should be performed on this patient to confirm the location of the foreign body?"
+  answer: A
+  options:
+    - PA and lateral in extension projections
+    - PA and lateral in flexion projections
+    - PA and fan lateral projections
+    - PA and Gaynor-Hart method

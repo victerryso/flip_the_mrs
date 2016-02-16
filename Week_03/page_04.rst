@@ -1,10 +1,10 @@
-Library Resources
+Bontrager's Handbook
 =============================================
 
-Check out this website for extra info at `Library Resources.
-<#>`_
+.. figure:: /Images/bontrager_logo.jpg
+   :target: http://opac.library.usyd.edu.au:80/record=b4698666~S4
+   :width: 480px
+   :alt: Bontrager's Handbook
+   :figclass: reference
 
-.. figure:: /Images/usyd_library_resources.jpg
-   :target: #
-   :alt: Library Resources
-   :figclass: align-center reference
+Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ about the radiographic positioning and techniques.

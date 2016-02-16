@@ -179,12 +179,12 @@ div.workplan > h2 {
 
 div.assessment > h3,
 div.assessment > h2 {
-    background-image: url("correct.png");
+    background-image: url("correct.svg");
 }
 
 div.review > h3,
 div.review > h2 {
-    background-image: url("magnifying_glass.png");
+    background-image: url("search.svg");
 }
 
 div.objectives > h3,
@@ -239,7 +239,7 @@ div.body h4.html-toggle-button:hover
 .activity.collapsed > .html-toggle-button,
 .section.collapsed > .html-toggle-button
 {
-    background-image: url("jean_victor_balin_add_blue.png");
+    background-image: url("dropdown.svg");
     padding-left: 34px;
     background-position: left center;
     background-repeat: no-repeat;
@@ -249,7 +249,7 @@ div.body h4.html-toggle-button:hover
 .activity.expanded > .html-toggle-button,
 .section.expanded > .html-toggle-button
 {
-    background-image: url("jean_victor_balin_remove_blue.png");
+    background-image: url("dropup.svg");
     padding-left: 34px;
     background-position: left center;
     background-repeat: no-repeat;
@@ -340,17 +340,17 @@ div.laboratory.inclass > h1 {
  }
 
 div.rst-content div.week > h1 {
-    background-image: url("calendar.png");
+    background-image: url("calendar.svg");
     padding-left: 45px;
  }
 
 div.rst-content div.week div.todo > h2 {
-    background-image: url("todo.png");
+    background-image: url("edit.svg");
     padding-left: 55px;
  }
 
 div.rst-content div.week div.toknow > h2 {
-    background-image: url("toknow.png");
+    background-image: url("warning.svg");
     padding-left: 40px;
  }
 

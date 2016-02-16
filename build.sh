@@ -7,7 +7,7 @@ make html
 # Development
 # open _build/html/index.html
 
-# Production
+# Production in Github Pages
 cd _build/html
 touch .nojekyll
 git init

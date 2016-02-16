@@ -1,0 +1,824 @@
+---
+  -
+    question: "The two most important landmarks for chest positioning are:"
+    answer: "D"
+    options:
+      - "top of shoulders and xiphoid process"
+      - "jugular notch and top of shoulders"
+      - "lower margin of thyroid cartilage and vertebrae prominens"
+      - "jugular notch and vertebra prominens"
+  -
+    question: "The vertebra prominens corresponds to the level of:"
+    answer: "A"
+    options:
+      - "C7"
+      - "C5"
+      - "T2"
+      - "C4-5"
+  -
+    question: "The xiphoid process is a reliable positioning landmark for determining the lower margin of the lungs for chest positioning"
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The upper margin of the lungs is at the level of the:"
+    answer: "B"
+    options:
+      - "jugular notch"
+      - "vertebra prominens"
+      - "laryngeal prominence"
+      - "sternal angle"
+  -
+    question: "What is the name of the structure that serves as a passageway for both food and air?"
+    answer: "C"
+    options:
+      - "Epiglottis"
+      - "Larynx"
+      - "Pharynx"
+      - "Esophagus"
+  -
+    question: "The jugular notch is located on the:"
+    answer: "D"
+    options:
+      - "sternum"
+      - "thyroid cartilage"
+      - "seventh cervical vertebra"
+      - "scapula"
+  -
+    question: "What is the correct anatomic name for the Adam’s apple?"
+    answer: "D"
+    options:
+      - "Sternum"
+      - "Epiglottis"
+      - "Cricoid cartilage"
+      - "Laryngeal prominence"
+  -
+    question: "What is the name for the structure that serves as a lid over the larynx to prevent aspiration of food or fluid?"
+    answer: "B"
+    options:
+      - "Uvula"
+      - "Epiglottis"
+      - "Hyoid bone"
+      - "Oropharynx"
+  -
+    question: "Which of the following structures is considered to be most posterior?"
+    answer: "B"
+    options:
+      - "Larynx"
+      - "Esophagus"
+      - "Trachea"
+      - "Hyoid bone"
+  -
+    question: "The lower concave area of the lung is termed the:"
+    answer: "A"
+    options:
+      - "base"
+      - "apex"
+      - "hilum"
+      - "costophrenic angle"
+  -
+    question: "Which of the following structures is considered to be most inferior?"
+    answer: "C"
+    options:
+      - "Epiglottis"
+      - "Hyoid bone"
+      - "Carina"
+      - "Vocal cords"
+  -
+    question: "The internal prominence or ridge where the trachea bifurcates into the right and left bronchi is termed the:"
+    answer: "A"
+    options:
+      - "carina"
+      - "hilum"
+      - "thyroid cartilage"
+      - "costophrenic angle"
+  -
+    question: "The inner layer of the pleura that encloses the lungs and heart is called the:"
+    answer: "C"
+    options:
+      - "parietal pleura"
+      - "pericardial sac"
+      - "visceral pleura"
+      - "pleural cavity"
+  -
+    question: "Air or gas that escapes into the pleural cavity results in a condition known as:"
+    answer: "B"
+    options:
+      - "air bronchogram"
+      - "pneumothorax"
+      - "hemidiaphragm"
+      - "hemothorax"
+  -
+    question: "Which of the following structures is not considered as a mediastinal structure?"
+    answer: "D"
+    options:
+      - "Thymus gland"
+      - "Aorta"
+      - "Trachea"
+      - "Epiglottis"
+  -
+    question: "The laryngeal prominence is a positioning landmark located at the level of:"
+    answer: "C"
+    options:
+      - "T1"
+      - "C7"
+      - "C5"
+      - "C3"
+  -
+    question: "Part i refers to the:"
+    answer: "D"
+    options:
+      - "hyoid bone"
+      - "larynx"
+      - "laryngeal prominence"
+      - "epiglottis"
+  -
+    question: "Part ii refers to the:"
+    answer: "A"
+    options:
+      - "hyoid bone"
+      - "larynx"
+      - "laryngeal prominence"
+      - "epiglottis"
+  -
+    question: "Part iii refers to the:"
+    answer: "C"
+    options:
+      - "thyroid cartilage"
+      - "carina"
+      - "laryngeal prominence"
+      - "hyoid bone"
+  -
+    question: "Part iv refers to the:"
+    answer: "C"
+    options:
+      - "laryngeal prominence"
+      - "carina"
+      - "thyroid cartilage"
+      - "cricoid cartilage"
+  -
+    question: "Part v refers to the:"
+    answer: "D"
+    options:
+      - "trachea"
+      - "larynx"
+      - "thyroid cartilage"
+      - "cricoid cartilage"
+  -
+    question: "Part vi refers to the:"
+    answer: "A"
+    options:
+      - "trachea"
+      - "larynx"
+      - "thyroid cartilage"
+      - "cricoid cartilage"
+  -
+    question: "The thyroid gland is located at the approximate level of:"
+    answer: "D"
+    options:
+      - "C1-3"
+      - "the carina"
+      - "the epiglottis"
+      - "C5-7"
+  -
+    question: "The thymus gland is at its maximum size at:"
+    answer: "C"
+    options:
+      - "age 40"
+      - "age 21"
+      - "puberty"
+      - "birth"
+  -
+    question: "The heart is located in the anterior chest at the level of:"
+    answer: "D"
+    options:
+      - "T2-5"
+      - "the thymus gland"
+      - "the arch of the aorta"
+      - "T5-8"
+  -
+    question: "The asthenic body type makes up approximately ____ of the population"
+    answer: "D"
+    options:
+      - "35%"
+      - "50%"
+      - "5%"
+      - "10%"
+  -
+    question: "The central ray (CR) for an AP supine chest should be:"
+    answer: "D"
+    options:
+      - "centered to level of T7"
+      - "centered 8 to 10 cm below the jugular notch"
+      - "centered at the vertebra prominens"
+      - "All of the above"
+  -
+    question: "For an AP portable chest on an older or hypersthenic male patient, the following should occur:"
+    answer: "B"
+    options:
+      - "the image receptor generally should be placed lengthwise"
+      - "the CR should be centered 3 inches (8 cm) below the jugular notch"
+      - "the CR should be centered to the mammillary (nipple) line"
+      - "None of the above"
+  -
+    question: "The thyroid dose on an average adult AP chest with correct collimation is:"
+    answer: "B"
+    options:
+      - "not enough to measure"
+      - "approximately 1 mrad"
+      - "approximately four times that for a PA chest"
+      - "approximately 12 mrad"
+  -
+    question: "The female breast dose for a correctly collimated lateral adult chest is:"
+    answer: "B"
+    options:
+      - "about the same as the thyroid dose"
+      - "between 8 and 10 mrad"
+      - "between 2 and 5 mrad"
+      - "about the same as for a PA chest"
+  -
+    question: "The female breast dose for an AP chest is approximately ____ times that for a PA chest"
+    answer: "B"
+    options:
+      - 30
+      - 10
+      - 2
+      - 50
+  -
+    question: "Which type of body habitus requires that the image receptor be placed crosswise rather than lengthwise for a PA chest?"
+    answer: "A"
+    options:
+      - "Hypersthenic"
+      - "Asthenic"
+      - "Sthenic"
+      - "Hyposthenic"
+  -
+    question: "A general rule states that radiographic grids must be used in chest radiography for ____"
+    answer: "B"
+    options:
+      - "exposure factors using 80 kV or below"
+      - "exposure factors using 100 kV or greater"
+      - "all adults"
+      - "all pediatrics"
+  -
+    question: "Geriatric patients generally require higher CR centering than younger patients"
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Top of image receptor placed approximately 2 inches (5 cm) above the shoulders is a recommended positioning guide for all adult chest radiographs"
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "Collimation guidelines indicate the upper border of the collimation field should be about 2 inches (5 cm) above the vertebra prominens"
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "True/False: An electrocardiography and echocardiography are the same procedure"
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "Which following statement is not true?"
+    answer: "B"
+    options:
+      - "The right lung contains three lobes"
+      - "The left bronchus is more horizontal than the right bronchus"
+      - "The right bronchus is shorter than the left bronchus"
+      - "The angle of divergence of the left bronchus is greater than that of the right bronchus"
+  -
+    question: "A well-inspired average adult chest PA projection will have a minimum of ____ posterior ribs seen above the diaphragm"
+    answer: "C"
+    options:
+      - "8 or 9"
+      - "7 or 8"
+      - 10
+      - 12
+  -
+    question: "Which of the following objects does not have to be removed or moved before a chest radiography?"
+    answer: "D"
+    options:
+      - "Necklace"
+      - "Bra"
+      - "T-shirt"
+      - "Glasses"
+  -
+    question: "Which of the following technical factors is recommended for an adult chest radiography?"
+    answer: "B"
+    options:
+      - "100 kV, 200 mA, 1/20 sec, 60-inch SID"
+      - "120 kV, 800 mA, 1/40 sec, 72-inch SID"
+      - "125 kV, 400 mA, 1/40 sec, 40-inch SID"
+      - "120 kV, 600 mA, 1/60 sec, 60-inch SID"
+  -
+    question: "Situation: A PA chest radiograph reveals that only eight ribs are seen above the diaphragm. Which of the following suggestions would improve the inspiration of lungs?"
+    answer: "C"
+    options:
+      - "Use higher kV to penetrate the diaphragm"
+      - "Perform chest position supine"
+      - "Take exposure on the second inspiration rather than on first"
+      - "Use a shorter exposure time"
+  -
+    question: "Situation: A correctly positioned lateral chest radiograph demonstrates some separation of the posterior ribs due to the divergent x-ray beam. A separation of more than ____ indicates objectionable rotation from a true lateral"
+    answer: "D"
+    options:
+      - "0.5 cm"
+      - "2 cm"
+      - "3 cm"
+      - "1 cm"
+  -
+    question: "What is the primary disadvantage of performing an AP projection of the chest rather than a PA?"
+    answer: "D"
+    options:
+      - "More radiation exposure to the lungs"
+      - "Distortion of the ribs"
+      - "AP projection requires more kV as compared with the PA projection"
+      - "Increased magnification of the heart"
+  -
+    question: "Of the following factors, which one must be applied to demonstrate possible air and fluid levels in the chest?"
+    answer: "C"
+    options:
+      - "72-inch SID"
+      - "High-kV technique"
+      - "Patient in erect position"
+      - "Use high mA and short exposure time"
+  -
+    question: "Situation: A PA chest radiograph reveals that the pendulous breasts of the patient are obscuring the base of the lungs. What should be done to lessen the effects of the breast shadow?"
+    answer: "A"
+    options:
+      - "Ask patient to lift breasts up and outward"
+      - "Use a higher kV (beyond 120) to penetrate tissue"
+      - "Have patient take a deeper inspiration before exposure"
+      - "Take an AP rather than PA projection"
+  -
+    question: "Situation: A PA chest radiograph reveals that the left sternoclavicular joint is closer to the spine than the right joint. What specific positioning error has been committed?"
+    answer: "B"
+    options:
+      - "Left tilt"
+      - "Rotation into the LAO position"
+      - "Right tilt"
+      - "Rotation into the RAO position"
+  -
+    question: "Which of the following factors must be applied to minimize magnification of the heart?"
+    answer: "A"
+    options:
+      - "72-inch SID"
+      - "High-kV technique"
+      - "Perform study erect"
+      - "Use high mA and short exposure time"
+  -
+    question: "Of the following positioning actions, which one will remove the scapulae from the lung fields?"
+    answer: "A"
+    options:
+      - "Roll shoulders forward"
+      - "Depress shoulders"
+      - "Elevate chin"
+      - "None of the above"
+  -
+    question: "When using AEC (automatic exposure control) for a PA chest projection, which ionization chamber(s) should be activated?"
+    answer: "C"
+    options:
+      - "Center chamber"
+      - "Right chamber"
+      - "Right and left chambers"
+      - "Left chamber"
+  -
+    question: "During an AP chest radiograph, which of the following receives the highest radiation dose?"
+    answer: "A"
+    options:
+      - "Breasts"
+      - "Thymus gland"
+      - "Thyroid gland"
+      - "Gonads"
+  -
+    question: "For an average size female patient, where is the CR placed for a PA projection of the chest?"
+    answer: "A"
+    options:
+      - "7 inches (18 cm) below the vertebra prominens"
+      - "3 inches (7.6 cm) below the jugular notch"
+      - "8 inches (20 cm) below the vertebra prominens"
+      - "2 inches (5.1 cm) above the shoulders"
+  -
+    question: "When using AEC, which ionization chamber(s) are activated for a left lateral projection of the chest?"
+    answer: "A"
+    options:
+      - "Center chamber only"
+      - "Two upper outside chambers"
+      - "All three chambers"
+      - "Center and left upper chamber"
+  -
+    question: "What type of CR angle is required for the AP semiaxial projection for the lung apices?"
+    answer: "C"
+    options:
+      - "5 to 10 cephalic degrees"
+      - "10 to 15 caudal degrees"
+      - "15 to 20 cephalic degrees"
+      - "20 to 25 caudal degrees"
+  -
+    question: "Which chest oblique position will best demonstrate the heart?"
+    answer: "D"
+    options:
+      - "45° RAO"
+      - "60° RAO"
+      - "45° LAO"
+      - "60° LAO"
+  -
+    question: "Situation: A patient enters the emergency room (ER) to be treated for severe trauma. The physician orders an AP supine chest to evaluate the lungs. What can the technologist do to reduce the magnification of the heart?"
+    answer: "D"
+    options:
+      - "Place the cassette crosswise"
+      - "Use a short exposure time"
+      - "Increase SOD as much as possible"
+      - "Increase SID as much as possible"
+  -
+    question: "Situation: An ambulatory patient comes to radiology with a clinical history of possible pneumonia. The patient complains of pain in the center of her chest. What positioning routine should be performed on this patient?"
+    answer: "A"
+    options:
+      - "PA and left lateral projections"
+      - "PA and right and left lateral projections"
+      - "PA and both decubitus projections"
+      - "AP and right lateral projections"
+  -
+    question: "Situation: A patient is in the intensive care unit with multiple injuries. The attending physician is concerned about a pleural effusion in the left lung. The patient had surgery recently and cannot be placed in the erect position. What position(s) would be best to rule out the pleural effusion?"
+    answer: "D"
+    options:
+      - "AP supine"
+      - "Right lateral decubitus"
+      - "LPO and RPO"
+      - "Left lateral decubitus"
+  -
+    question: "Situation: A patient enters the ER with a possible pneumothorax in the left lung. Due to trauma, the patient cannot stand or sit erect. Which of the following positions would best demonstrate this condition?"
+    answer: "B"
+    options:
+      - "AP supine"
+      - "Right lateral decubitus"
+      - "LPO and RPO"
+      - "Left lateral decubitus"
+  -
+    question: "Situation: A patient comes to radiology for a routine chest study. On the PA projection, the radiologist sees a possible calcification near a rib, but she cannot tell whether the calcification is in the lung or on the rib. What additional projections would assist with the diagnosis?"
+    answer: "C"
+    options:
+      - "Apical lordotic"
+      - "Right lateral"
+      - "Inspiration/expiration PA"
+      - "Both lateral decubitus"
+  -
+    question: "Situation: A patient enters the ER with a possible hemothorax in the right lung. With help, the patient can sit erect on a cart. Which of the following routines would best demonstrate this condition?"
+    answer: "A"
+    options:
+      - "Erect PA and erect right lateral on cart"
+      - "Right lateral decubitus"
+      - "Left lateral decubitus"
+      - "RPO and LAO erect"
+  -
+    question: "Situation: A patient comes to radiology with a possible mass beneath the right clavicle. The PA and left lateral projections are inconclusive. Which additional projection can be taken to demonstrate this possible mass?"
+    answer: "D"
+    options:
+      - "AP erect"
+      - "Right lateral"
+      - "AP and lateral of upper airway"
+      - "AP lordotic"
+  -
+    question: "For anterior oblique radiographs of the chest, the side of interest is generally farthest from the image receptor"
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Contrary to common belief, the vertical dimension of an average PA chest is greater than the horizontal dimension"
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "A small atelectasis may be detected by performing inspiration and expiration PA projections"
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "The greatest amount of patient dose delivered to the patient during all chest radiography is to the skin"
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "When performing the lateral projection of the upper airway, exposure should be made during a slow, deep inspiration rather than at the end of the inspiration"
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "When using AEC, which ionization chamber(s) should be activated on anterior obliques?"
+    answer: "C"
+    options:
+      - "The two upper outside chambers"
+      - "The upper outside chamber closest to the chest"
+      - "The upper outside chamber farthest from chest"
+      - "The center chamber"
+  -
+    question: "Why must the technologist slightly angle the CR caudad for most AP projections of the chest?"
+    answer: "D"
+    options:
+      - "This elongates the carina"
+      - "This prevents overlap of the chin on the upper airway"
+      - "This separates the heart from the great vessels"
+      - "This prevents clavicles from obscuring apices of the lungs"
+  -
+    question: "When using AEC, which ionization chamber(s) is/are normally activated for the PA projection of the chest?"
+    answer: "A"
+    options:
+      - "The two upper outside chambers"
+      - "The center chamber"
+      - "All three chambers"
+      - "The center and left upper chambers"
+  -
+    question: "Which positioning line must be placed perpendicular to the plane of the IR for an AP projection of the upper airway?"
+    answer: "C"
+    options:
+      - "Mentomeatal"
+      - "Midcoronal"
+      - "Acanthiomeatal"
+      - "Orbitomeatal"
+  -
+    question: "Which of the following is not a form of occupational lung disease?"
+    answer: "B"
+    options:
+      - "Silicosis"
+      - "Tuberculosis"
+      - "Anthracosis"
+      - "Asbestosis"
+  -
+    question: "Which of the following is a condition in which all or part of a lung is collapsed, requiring an increase in manual exposure factors?"
+    answer: "D"
+    options:
+      - "Pleural effusion"
+      - "Pneumothorax"
+      - "Bronchiectasis"
+      - "Atelectasis"
+  -
+    question: "Advanced bronchiectasis"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Large pneumothorax"
+    answer: "B"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Severe pulmonary edema"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Severe emphysema"
+    answer: "B"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Cystic fibrosis (severe)"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Pneumonia (present in both lungs)"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Silicosis (severe)"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Bronchitis"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Epiglottitis"
+    answer: "B"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Large pleural effusion"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Pleurisy"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Tuberculosis (primary or childhood)"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Advanced respiratory distress syndrome (RDS)"
+    answer: "A"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Mild chronic obstructive pulmonary disease (COPD)"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Aspiration in upper airway (mechanical obstruction)"
+    answer: "B"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Malignant lung neoplasia"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Pulmonary emboli"
+    answer: "C"
+    options:
+      - "Increase(+)"
+      - "Decrease(-)"
+      - "No Change(0)"
+  -
+    question: "Lung displaced from chest wall and no lung markings visible on radiograph"
+    answer: "C"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Patchy infiltrate with increased radiodensity"
+    answer: "F"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Increased lung dimensions (barrel-chested)"
+    answer: "B"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Increased diffuse radiodensity in hilar regions and air-fluid levels"
+    answer: "J"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Severe cases appear as emphysema"
+    answer: "E"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Slight shadows in early stages, larger radiopaque masses in advanced stages"
+    answer: "I"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Collapse of all or part of lung"
+    answer: "G"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Inflammation of pleura (possible air/fluid levels)"
+    answer: "H"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "A contagious disease caused by airborne bacteria"
+    answer: "A"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"
+  -
+    question: "Coughing up blood"
+    answer: "D"
+    options:
+      - "Tuberculosis"
+      - "Emphysema"
+      - "Pneumothorax"
+      - "Hemoptysis"
+      - "COPD"
+      - "Pneumonia"
+      - "Atelectasis"
+      - "Pleurisy"
+      - "Malignant lung cancer"
+      - "Pulmonary edema"

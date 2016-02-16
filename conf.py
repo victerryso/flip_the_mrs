@@ -41,13 +41,13 @@ sys.path.insert(0, os.path.abspath('.'))
 # GENERAL CONFIGURATION
 #
 ###############################################################################
-global_data_context = '' # @@NAME YOUR CONTEXT@@
-global_data_entry_url = '' # @@URL TO COLLECT DATA@@
-global_data_entry_method = 'POST'
-global_data_subject_field_name = 'leco_subject_field'
-global_data_verb_field_name =    'leco_verb_field'
-global_data_object_field_name =  'leco_object_field'
-global_data_context_field_name = 'leco_context_field'
+global_data_context             = 'Medical Radiation Science' # @@NAME YOUR CONTEXT@@
+global_data_entry_url           = '/data2u/leco/post_entry' # @@URL TO COLLECT DATA@@
+global_data_entry_method        = 'POST'
+global_data_subject_field_name  = 'leco_subject_field'
+global_data_verb_field_name     = 'leco_verb_field'
+global_data_object_field_name   = 'leco_object_field'
+global_data_context_field_name  = 'leco_context_field'
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
@@ -166,10 +166,10 @@ html_style = 'learning_resources.css'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Creating Learning Resources with Sphinx-doc'
+html_title = 'Medical Radiation Science'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = 'Creating Resources with Sphinx-doc'
+html_short_title = 'Medical Radiation Science'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -233,7 +233,7 @@ html_show_sphinx = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CreatingLearningResourceswithSphinx-Docdoc'
+htmlhelp_basename = 'MedicalRadiationScience'
 
 #
 # HTML CONTEXT (not present by default!)
@@ -272,8 +272,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'CreatingLearningResourceswithSphinx-Doc.tex', u'Creating Learning Resources with Sphinx-Doc Documentation',
-   u'Abelardo Pardo', 'manual'),
+  ('index', 'MedicalRadiationScience.tex', u'Medical Radiation Science',
+   u'Mark McEntee', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

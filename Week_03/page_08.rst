@@ -1,10 +1,10 @@
 Piazza
 =============================================
 
-Check out this website for extra info at `Piazza.
-<#>`_
-
-.. figure:: /Images/piazza.jpg
-   :target: #
+.. figure:: /Images/piazza_logo.png
+   :target: https://piazza.com/
+   :width: 480px
    :alt: Piazza
-   :figclass: align-center reference
+   :figclass: reference
+
+Post your questions or points of clarification to the `Piazza <https://piazza.com/>`_ discussion board.

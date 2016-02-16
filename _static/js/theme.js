@@ -23,12 +23,6 @@ $( document ).ready(function() {
     // Make tables responsive
     $("table.docutils:not(.field-list)").wrap("<div class='wy-table-responsive'></div>");
 
-    var $questions    = $('.reauthoring_embedded_quiz')
-    var questionCount = 3
-    var removeCount   = $questions.length - questionCount
-    var questionsToRemove = _.sample($questions, removeCount)
-    $(questionsToRemove).remove()
-
 });
 
 window.SphinxRtdTheme = (function (jquery) {
