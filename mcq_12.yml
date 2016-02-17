@@ -1,0 +1,499 @@
+-
+  question: Which of the following form the bony thorax?
+  answer: [ A, B, C ]
+  options:
+    - sternum
+    - 12 pairs of ribs
+    - 12 thoracic vertebrae
+-
+  question: "The anatomical part of the sternum identified in the figure above is the:"
+  answer: C
+  image: 'mcq-12-2.png'
+  options:
+    - xiphoid
+    - jugular notch
+    - manubrium
+    - sternal angle
+-
+  question: Ribs lie in an oblique plane in the thorax. How are the anterior ends situated in comparison to the posterior ends?
+  answer: C
+  options:
+    - 1 inch lower
+    - 1 inch higher
+    - 3 to 5 inches lower
+    - 3 to 5 inches higher
+-
+  question: "The space between each of the ribs is called the:"
+  answer: B
+  options:
+    - costal cartilage
+    - intercostal spaces
+    - costovertebral joints
+    - costotransverse joints
+-
+  question: "The part of the rib identified in the figure above is the:"
+  answer: A
+  image: 'mcq-12-5.png'
+  options:
+    - head
+    - neck
+    - facet
+    - shaft
+-
+  question: Which joints articulate with a vertebra?
+  answer: [ A, B ]
+  options:
+    - costovertebral
+    - costotransverse
+    - costochondral
+-
+  question: For which type of body habitus will the diaphragm be at the highest level in the body?
+  answer: D
+  options:
+    - sthenic
+    - asthenic
+    - hyposthenic
+    - hypersthenic
+-
+  question: For which type of body habitus will the diaphragm be at the lowest position in the body?
+  answer: B
+  options:
+    - obese
+    - hyposthenic
+    - hypersthenic
+    - emaciated
+-
+  question: What is the distance of movement of the diaphragm between deep inspiration and deep expiration?
+  answer: A
+  options:
+    - 1.5 inches
+    - 2 inches
+    - 3 inches
+    - 4 inches
+-
+  question: The total movement of the diaphragm will be less for which type of body habitus?
+  answer: D
+  options:
+    - sthenic
+    - asthenic
+    - hyposthenic
+    - hypersthenic
+-
+  question: Which of the following is the recommended breathing technique that should be used when examining the ribs that lie at the level of the diaphragm?
+  answer: B
+  options:
+    - one deep inspiration (or expiration) and hold
+    - two deep expirations (or inspirations) and hold
+    - suspended respiration
+    - slow, shallow breathing
+-
+  question: Which of the following is the essential projection and body position for demonstration of the sternum?
+  answer: D
+  options:
+    - AP, supine
+    - PA, prone
+    - PA oblique, LAO
+    - PA oblique, RAO
+-
+  question: Which projection and body position will demonstrate the sternum through the heart?
+  answer: A
+  options:
+    - PA oblique, RAO
+    - PA oblique, LAO
+    - AP oblique, RPO
+    - AP oblique, LPO
+-
+  question: Which of the following projections would be used to demonstrate the sternum on a trauma patient who must remain relatively supine?
+  answer: C
+  options:
+    - AP projection
+    - PA projection, RAO
+    - AP projection, LPO
+    - AP projection, RPO
+-
+  question: How much should the body be rotated for a PA oblique projection of the sternum?
+  answer: D
+  options:
+    - 10 degrees
+    - 20 degrees
+    - 5 to 10 degrees
+    - 15 to 20 degrees
+-
+  question: Where is the IR centered for a PA oblique sternum?
+  answer: B
+  options:
+    - fifth thoracic vertebra
+    - seventh thoracic vertebra
+    - manubrium sterni
+    - jugular notch
+-
+  question: Which breathing techniques can be used when performing an oblique projection of the sternum?
+  answer: [ B, C ]
+  options:
+    - inspiration
+    - expiration
+    - slow, shallow breathing
+-
+  question: "The central-ray angle for the PA oblique projection of the sternum is:"
+  answer: D
+  options:
+    - 5 degrees caudad
+    - 10 degrees caudad
+    - 15 degrees caudad
+    - perpendicular
+-
+  question: Which SID is recommended for the lateral projection of the sternum for management of magnification?
+  answer: D
+  options:
+    - 48 inches
+    - 60 inches
+    - 72 inches
+    - 120 inches
+-
+  question: Where should the patient's hands be positioned for an upright lateral sternum?
+  answer: A
+  options:
+    - locked behind the back
+    - straight down at the side
+    - locked above the head
+    - back of the hands against the thighs
+-
+  question: What is the respiration phase for a lateral projection of the sternum?
+  answer: B
+  options:
+    - deep expiration
+    - deep inspiration
+    - slow, shallow breathing
+    - long, deep breathing
+-
+  question: "The central-ray angle for a lateral sternum is:"
+  answer: D
+  options:
+    - 5 degrees caudad
+    - 10 degrees caudad
+    - 10 to 12 degrees caudad
+    - perpendicular
+-
+  question: Where is the center of the IR positioned for a PA projection of sternoclavicular joints?
+  answer: B
+  options:
+    - second thoracic vertebra
+    - third thoracic vertebra
+    - manubrium sterni
+    - body of the sternum
+-
+  question: How is the head positioned for a PA projection of both sternoclavicular articulations?
+  answer: D
+  options:
+    - on the left side
+    - on the right side
+    - with the forehead and nose on the table
+    - with the midsagittal plane vertical
+-
+  question: How is the patient's head positioned for a PA projection of one sternoclavicular joint?
+  answer: A
+  options:
+    - turn the head to face the affected side
+    - turn the head to face the unaffected side
+    - with the forehead and nose on the table
+    - with the midsagittal plane vertical
+-
+  question: "The phase of respiration for a PA projection of the sternoclavicular joints is:"
+  answer: A
+  options:
+    - expiration
+    - inspiration
+    - suspended respiration
+    - slow, shallow breathing
+-
+  question: "The central-ray angulation for a PA projection of the sternoclavicular joint is:"
+  answer: A
+  options:
+    - 0 degrees
+    - 5 degrees caudad
+    - 10 degrees caudad
+    - 10 to 15 degrees caudad
+-
+  question: How much is the body rotated for the PA oblique projection of the sternoclavicular articulation (body rotation technique)?
+  answer: C
+  options:
+    - 10 degrees
+    - 20 degrees
+    - 10 to 15 degrees
+    - 20 to 30 degrees
+-
+  question: "The central-ray angulation for the PA oblique projection of the sternoclavicular articulation (body rotation technique) is:"
+  answer: D
+  options:
+    - 5 degrees cephalad
+    - 7 degrees cephalad
+    - 10 degrees cephalad
+    - perpendicular
+-
+  question: When performing the PA oblique projection (body rotation technique) of the sternoclavicular articulations, which of the joints would be demonstrated?
+  answer: B
+  options:
+    - both joints are demonstrated
+    - the joint closest to the IR
+    - the joint farthest from the IR
+    - both joints—but varies depending on body habitus
+-
+  question: Which of the following body positions will project the left ribs clear of the heart?
+  answer: [ B, C ]
+  options:
+    - lateral
+    - LAO
+    - RPO
+-
+  question: Which of the following is the recommended position for optimal demonstration of the upper anterior ribs?
+  answer: [ B, C ]
+  options:
+    - recumbent
+    - standing
+    - seated upright
+-
+  question: How far is the top of the 14 × 17 inch (35 × 43 cm) IR or collimated field placed above the upper border of the shoulder for projections of the ribs?
+  answer: B
+  options:
+    - 1 inch
+    - 1.5 inches
+    - 2 inches
+    - 2.5 inches
+-
+  question: How are the hands placed for a PA projection of the ribs so that the scapulae are rotated away from the rib cage?
+  answer: A
+  options:
+    - palm of the hands against the hips
+    - palm of the hands against the mid-thigh
+    - back of the hands against the hips
+    - back of the hands against the mid-thigh
+-
+  question: What is the respiration phase for the PA projection of the upper ribs?
+  answer: B
+  options:
+    - full expiration
+    - full inspiration
+    - suspended respiration
+    - slow, shallow breathing
+-
+  question: "The central ray for a PA projection of the upper ribs is:"
+  answer: A
+  options:
+    - 0 degrees
+    - 5 degrees caudad
+    - 10 degrees cephalad
+    - 12 degrees cephalad
+-
+  question: What is the respiration phase for the AP projection of the ribs below the diaphragm?
+  answer: C
+  options:
+    - suspended respiration
+    - full inspiration
+    - full expiration
+    - slow, shallow breathing
+-
+  question: Where is the bottom of the IR positioned for an AP projection of the ribs (below the diaphragm)?
+  answer: D
+  options:
+    - at the xiphoid
+    - at the ASIS
+    - 1.5 inches above the crest of the ilium
+    - at the iliac crest
+-
+  question: How much is the body rotated for an AP or PA axillary projection of the ribs?
+  answer: B
+  options:
+    - 30 degrees
+    - 45 degrees
+    - 20 to 30 degrees
+    - 35 to 45 degrees
+-
+  question: Which ribs are demonstrated on an AP oblique projection?
+  answer: D
+  options:
+    - upper ribs only
+    - lower ribs only
+    - side farthest from the IR
+    - side closest to the IR
+-
+  question: "The approximate length of the sternum is:"
+  answer: D
+  options:
+    - 3 inches
+    - 4 inches
+    - 5 inches
+    - 6 inches
+-
+  question: "The part of the sternum identified on the figure above is the:"
+  answer: C
+  image: 'mcq-12-42.png'
+  options:
+    - body
+    - manubrium
+    - xiphoid
+    - sternal angle
+-
+  question: "The easily palpable superior border of the manubrium is called the:"
+  answer: D
+  options:
+    - body
+    - xiphoid
+    - sternal angle
+    - jugular notch
+-
+  question: How many ribs attach directly to the sternum?
+  answer: B
+  options:
+    - 5
+    - 7
+    - 10
+    - 12
+-
+  question: "The costal cartilages of the eighth through tenth ribs attach to:"
+  answer: C
+  options:
+    - each other
+    - the sternum
+    - the costal cartilage of the seventh rib
+    - the body of the seventh rib
+-
+  question: Which ribs are called the true ribs?
+  answer: A
+  options:
+    - 1 to 7
+    - 1 to 10
+    - 8 to 12
+    - 11 and 12
+-
+  question: Which ribs are called the false ribs?
+  answer: C
+  options:
+    - 1 to 7
+    - 1 to 10
+    - 8 to 12
+    - 11 and 12
+-
+  question: Which ribs are attached to the vertebrae only?
+  answer: D
+  options:
+    - 1 to 7
+    - 1 to 10
+    - 8 to 12
+    - 11 and 12
+-
+  question: "The part of the rib identified in the figure above is the:"
+  answer: A
+  image: 'mcq-12-49.png'
+  options:
+    - body
+    - angle
+    - costal groove
+    - sternal end
+-
+  question: "The 12 costovertebral joints of the ribs are:"
+  answer: B
+  options:
+    - synovial—pivot
+    - synovial—gliding
+    - cartilaginous—symphysis
+    - cartilaginous—synchondroses
+-
+  question: "The 10 costochondral joints of the ribs are:"
+  answer: D
+  options:
+    - synovial—pivot
+    - synovial—gliding
+    - cartilaginous—symphysis
+    - cartilaginous—synchondroses
+-
+  question: What degree of x-ray tube angulation is required to demonstrate the sternum on a patient whose thorax measures 30 cm?
+  answer: A
+  options:
+    - 12 degrees
+    - 16 degrees
+    - 19 degrees
+    - 22 degrees
+-
+  question: What degree of x-ray tube angulation is required to demonstrate the sternum on a patient whose thorax measures 15 cm?
+  answer: B
+  options:
+    - 20 degrees
+    - 22 degrees
+    - 28 degrees
+    - 30 degrees
+-
+  question: What is the recommended SID necessary to blur the posterior ribs on a PA oblique projection of the sternum?
+  answer: A
+  options:
+    - 30 inches
+    - 40 inches
+    - 48 inches
+    - 72 inches
+-
+  question: How is the IR positioned for a lateral sternum?
+  answer: C
+  options:
+    - top of the IR is at C7-T1
+    - top of the IR is at T3
+    - top of the IR is   inches above the jugular notch
+    - top of the IR is 2 inches above the jugular notch
+-
+  question: "To obtain a more uniform density, the respiration phase for the PA oblique projection of the sternoclavicular joints is:"
+  answer: B
+  options:
+    - inspiration
+    - expiration
+    - suspended respiration
+    - slow, shallow breathing
+-
+  question: Where is the top of the IR positioned for an AP oblique projection of the ribs?
+  answer: C
+  options:
+    - at the level of T1
+    - 1 inch above the upper border of the shoulder
+    - 1.5 inches above the upper border of the shoulder
+    - 2 inches above the upper border of the shoulder
+-
+  question: Which of the following IR size and position is for the AP projection of the lower ribs?
+  answer: B
+  options:
+    - 14 × 17 inches (35 × 43 cm) lengthwise
+    - 14 × 17 inches (35 × 43 cm) crosswise
+    - 10 × 12 inches (24 × 30 cm) lengthwise
+    - 10 × 12 inches (24 × 35 cm) crosswise
+-
+  question: Which ribs are best demonstrated in this image?
+  answer: D
+  image: 'mcq-12-59.png'
+  options:
+    - axillary portion of the right ribs
+    - axillary portion of the left ribs
+    - ribs above the diaphragm (upper ribs)
+    - ribs below the diaphragm (lower ribs)
+-
+  question: What breathing instructions are given to the patient prior to making the exposure for this image?
+  answer: B
+  image: 'mcq-12-60.png'
+  options:
+    - Inhale and hold your breath.
+    - Exhale and hold your breath.
+    - Inhale, exhale, inhale and hold your breath.
+    - Breathe normally
+-
+  question: Examine the image below. Which ribs are best demonstrated?
+  answer: A
+  image: 'mcq-12-61.png'
+  options:
+    - axillary portion of right ribs
+    - axillary portion of left ribs
+    - left ribs above the diaphragm
+    - right ribs below the diaphragm
+-
+  question: Examine the image below. Which ribs are best demonstrated?
+  answer: C
+  image: 'mcq-12-62.png'
+  options:
+    - axillary portion of right ribs
+    - axillary portion of left ribs
+    - ribs above the diaphragm
+    - ribs below the diaphragm

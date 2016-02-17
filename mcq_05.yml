@@ -278,3 +278,255 @@
     - capitate
     - pisiform
     - lunate
+-
+  question: How many carpal bones are found in the wrist?
+  answer: B
+  options:
+    - 14
+    - 8
+    - 5
+    - 7
+-
+  question: "The joint found between the base of the third metacarpal and carpal bone is the:"
+  answer: C
+  options:
+    - intercarpal.
+    - interphalangeal.
+    - carpometacarpal.
+    - proximal metacarpophalangeal.
+-
+  question: Which of the following carpals articulates with the radius?
+  answer: B
+  options:
+    - Triquetrum
+    - Scaphoid
+    - Pisiform
+    - Hamate
+-
+  question: Which of the carpal bones is considered to be the largest?
+  answer: D
+  options:
+    - Hamate
+    - Triquetrum
+    - Trapezium
+    - Capitate
+-
+  question: What is the synonym for the trapezoid?
+  answer: A
+  options:
+    - Lesser multangular
+    - Os magnum
+    - Greater multangular
+    - Unciform
+-
+  question: Which carpal articulates with both the fourth and fifth metacarpals?
+  answer: C
+  options:
+    - Triquetrum
+    - Capitate
+    - Hamate
+    - Trapezoid
+-
+  question: Which is the most commonly fractured carpal bone?
+  answer: C
+  options:
+    - Lunate
+    - Trapezium
+    - Scaphoid
+    - Hamate
+-
+  question: Which carpal bone is the smallest?
+  answer: B
+  options:
+    - Scaphoid
+    - Pisiform
+    - Hamate
+    - Capitate
+-
+  question: The radiocarpal (wrist) joint possesses a(n) ____ type of joint movement.
+  answer: A
+  options:
+    - ellipsoidal
+    - ginglymus
+    - plane
+    - trochoidal
+-
+  question: Which wrist ligament is attached to the styloid process of the ulna and continues to the triquetrum and pisiform?
+  answer: D
+  options:
+    - Radial collateral ligament
+    - Dorsal radiocarpal ligament
+    - Palmar radiocarpal ligament
+    - Ulnar collateral ligament
+-
+  question: "The bending or forcing of the hand laterally with the hand pronated in a PA projection is known as:"
+  answer: B
+  options:
+    - radial deviation.
+    - ulnar deviation.
+    - radial abduction.
+    - ulnar extension.
+-
+  question: "The two fat stripes of the wrist demonstrated radiographically are known as the scaphoid fat stripe and the:"
+  answer: A
+  options:
+    - pronator fat stripe.
+    - pisiform fat stripe.
+    - abductor fat stripe.
+    - anterior fat stripe.
+-
+  question: "A nonvisible posterior fat pad on a well-exposed, correctly positioned lateral elbow radiograph generally suggests:"
+  answer: A
+  options:
+    - negative study for injury.
+    - fracture of one of the bones of the elbow.
+    - injury to the synovial joint.
+    - a congenital defect.
+-
+  question: What is the distance between the tabletop and Bucky tray on most floating tabletop type of tables?
+  answer: D
+  options:
+    -  to 1 inch (1.3 to 2.5 cm)
+    - 1 to 2 inches (2.5 to 5.1 cm)
+    - 2 to 3 inches (5 to 7.6 cm)
+    - 3 to 4 inches (8 to 10 cm)
+-
+  question: A general positioning rule is to place the long axis of the part ____ to the long axis of the image receptor.
+  answer: D
+  options:
+    - perpendicular
+    - adjacent
+    - axial
+    - parallel
+-
+  question: How should the original exposure factors be changed with a fiberglass cast applied for a wrist or forearm radiographic procedure?
+  answer: C
+  options:
+    - No change
+    - Increase mAs 50% to 60%
+    - Increase mAs 25% to 30%
+    - Increase 8 to 10 kV
+-
+  question: "Grids are generally not required unless the anatomy measures greater than:"
+  answer: B
+  options:
+    - 8 cm.
+    - 10 cm.
+    - 14 cm.
+    - 5 cm.
+-
+  question: Nuclear medicine is generally more sensitive than radiography for assessing bones of the upper limb for either metastatic bone lesions or stress fractures.
+  answer: A
+  options:
+    - True
+    - False
+-
+  question: Carpal tunnel syndrome is more common in middle-aged women than in middle-aged men.
+  answer: A
+  options:
+    - True
+    - False
+-
+  question: "Local or generalized infection of bone or bone marrow caused by bacteria introduced by trauma or surgery is a condition termed:"
+  answer: A
+  options:
+    - osteomyelitis.
+    - Paget’s disease.
+    - osteoarthritis.
+    - cellulitis.
+-
+  question: Which special projection of the wrist will open up the interspaces on the ulnar side of the wrist?
+  answer: A
+  options:
+    - Radial deviation
+    - Ulnar deviation
+    - Carpal canal
+    - Carpal bridge
+-
+  question: How much CR angulation to the long axis of the hand is required for the tangential, inferosuperior projection to demonstrate the carpal sulcus (canal)?
+  answer: B
+  options:
+    - 10° to 15°
+    - 25° to 30°
+    - 35° to 45°
+    - 5° to 10°
+-
+  question: Which of the following actions will lead to the proximal radius crossing over the ulna?
+  answer: C
+  options:
+    - Supination of the hand
+    - Placing epicondyles parallel to image receptor
+    - Pronation of the hand
+    - External rotation of elbow
+-
+  question: Which of the following statements is not true?
+  answer: D
+  options:
+    - The patient skin dose for both a PA and a lateral hand is in the 80 to 100 mrad range.
+    - The midline dose and the skin dose for a PA wrist is approximately the same.
+    - The skin dose for a lateral wrist is approximately the same as for a carpal canal (tunnel view) projection.
+    - The female gonadal dose for a lateral elbow is less than 0.1 mrad.
+-
+  question: "Situation: A radiograph of a tangential, inferosuperior projection of the carpal canal reveals that the hamate is superimposed over the pisiform. Which of the following measures will correct this problem?"
+  answer: A
+  options:
+    - Rotate the wrist and hand 10° internally.
+    - Increase the CR angle.
+    - Decrease the CR angle.
+    - Increase the extension of the hand and/or wrist.
+-
+  question: "Situation: A patient enters the ER with a possible scaphoid fracture. The patient is unable to assume the ulnar deviation position. Which of the following positions should be performed to confirm the diagnosis?"
+  answer: C
+  options:
+    - Gaynor-Hart
+    - Jones
+    - Modified Stecher
+    - Coyle
+-
+  question: "Situation: A patient with a fractured forearm had the fracture reduced and a fiberglass cast placed on the extremity. The orthopedic surgeon orders a postreduction study. The original technique was 60 kV with 3 mAs. Which of the following techniques should be selected for the postreduction study?"
+  answer: A
+  options:
+    - 64 kV, 3 mAs
+    - 64 kV, 6 mAs
+    - 60 kV, 6 mAs
+    - 70 kV, 3 mAs
+-
+  question: "Situation: A patient enters the ER with an elbow injury. The partially flexed AP and lateral positions reveal a possible fracture of the coronoid process. The patient’s elbow is partially flexed and he refuses to extend it further. Which one of the following positions should be performed to confirm the fracture of the coronoid process?"
+  answer: B
+  options:
+    - Jones method
+    - Coyle method with 80° flexion, CR angled 45° away from shoulder
+    - Coyle method with 90° flexion, CR angled 45° toward the shoulder
+    - Gaynor-Hart method
+-
+  question: "Situation: A patient with a history of carpal tunnel syndrome comes to radiology. The physician wants to rule out abnormal calcifications in the carpal sulcus. Which of the following projections would best demonstrate this region?"
+  answer: D
+  options:
+    - Coyle method
+    - Jones method
+    - Carpal bridge
+    - Gaynor-Hart method
+-
+  question: "Situation: A radiograph of the PA scaphoid projection reveals extensive superimposition of the scaphoid and adjacent carpals. Which of the following factors can lead to this problem?"
+  answer: B
+  options:
+    - Elevation of the hand and wrist
+    - Insufficient ulnar deviation
+    - Insufficient CR angle distally
+    - Slight flexion of the phalanges
+-
+  question: "Situation: A lateral elbow radiograph demonstrates about half of the radial head superimposed by the coronoid process of the ulna. Which of the following occurred?"
+  answer: D
+  options:
+    - The hand was pronated rather than in a true lateral position.
+    - The hand and wrist were rotated laterally and not in a true lateral position.
+    - The shoulder was not dropped sufficiently to the tabletop level.
+    - No positioning errors occurred.
+-
+  question: "Situation: A young child comes to radiology with an elbow injury. The basic elbow projections demonstrate a possible nondisplaced fracture of the coronoid process. Beyond the medial oblique projection, what additional projection(s) can be performed to demonstrate the coronoid process in profile?"
+  answer: C
+  options:
+    - Coyle method with 45° CR angle toward shoulder
+    - Radial head lateral projections
+    - Coyle method with 45° CR angle away from shoulder
+    - Acute flexion projection

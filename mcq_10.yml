@@ -1,0 +1,149 @@
+---
+  -
+    question: "The medial malleolus is part of the:"
+    answer: "D"
+    options:
+      - "talus."
+      - "calcaneus."
+      - "fibula."
+      - "tibia."
+  -
+    question: "The ankle joint is a ____ joint with a ____ type of movement."
+    answer: "B"
+    options:
+      - "fibrous; plane"
+      - "synovial; sellar"
+      - "fibrous; ginglymus"
+      - "synovial; ginglymus"
+  -
+    question: "Another term for the intercondylar sulcus is the:"
+    answer: "B"
+    options:
+      - "articular facets."
+      - "patellar surface."
+      - "femoropatellar joint space."
+      - "intercondylar recess."
+  -
+    question: "To decrease the angle between the anterior surface of the foot and anterior surface of the lower leg is described as:"
+    answer: "C"
+    options:
+      - "plantar flexion."
+      - "inversion."
+      - "dorsiflexion."
+      - "eversion."
+  -
+    question: "To reduce scatter radiation during tabletop procedures, the Bucky tray should not be positioned directly under the lower limb being radiographed."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "When using computed radiography, lead masking should not be placed on the regions of the imaging plate not within the collimation field."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The distal tibiofibular joint is classified as:"
+    answer: "B"
+    options:
+      - "synovial."
+      - "fibrous."
+      - "diarthrodial."
+      - "synarthrodial."
+  -
+    question: "Which of the following joints is a modified ellipsoidal or condyloid joint?"
+    answer: "B"
+    options:
+      - "Tarsometarsal"
+      - "Metatarsophalangeal"
+      - "Proximal tibiofibular"
+      - "Intertarsal"
+  -
+    question: "A correctly positioned AP 45° medial oblique ankle projection frequently may also demonstrate a fracture of the base of the fifth metatarsal if present."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Which joint surfaces of the ankle joint are open with an AP projection of the ankle?"
+    answer: "A"
+    options:
+      - "Medial and superior"
+      - "Lateral and medial"
+      - "Superior and lateral"
+      - "Medial, superior, and lateral"
+  -
+    question: "How much rotation from an AP of the ankle will typically produce an AP mortise projection?"
+    answer: "C"
+    options:
+      - "No rotation is needed."
+      - "45°"
+      - "15° to 20°"
+      - "25° to 30°"
+  -
+    question: "What is the purpose for the AP stress views of the ankle?"
+    answer: "B"
+    options:
+      - "To demonstrate possible stress fractures"
+      - "To demonstrate possible joint separations or ligament tear"
+      - "To demonstrate loose bodies in ankle joint"
+      - "To demonstrate tears in the joint meniscus"
+  -
+    question: "The patient skin dose range for any of the ankle or foot projections is:"
+    answer: "B"
+    options:
+      - "less than 5 mrad."
+      - "10 to 30 mrad."
+      - "50 to 75 mrad."
+      - "100 to 150 mrad."
+  -
+    question: "The AP mortise projection of the ankle is commonly taken in surgery during open reductions."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Follow-up radiographs for a fractured tibia and fibula may include only the joint closest to the site of injury."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Situation: A radiograph of an AP ankle projection reveals that the lateral joint space is not open (lateral malleolus is partially superimposed by the talus). The superior and medial joint spaces are open. What should the technologist do to correct this problem and improve the image?"
+    answer: "C"
+    options:
+      - "Rotate the ankle more laterally."
+      - "Rotate the ankle more medially."
+      - "Nothing; this is an acceptable image."
+      - "Dorsiflex the foot."
+  -
+    question: "Situation: A radiograph of a AP mortise projection of the ankle reveals that the lateral malleolus is slightly superimposed over the talus and the lateral joint space is not open. What is most likely the cause for this radiographic outcome?"
+    answer: "B"
+    options:
+      - "Excessive medial rotation of the foot and ankle"
+      - "Insufficient medial rotation of the foot and ankle"
+      - "Excessive plantar flexion of the foot and ankle"
+      - "Excessive dorsiflexion of the foot and ankle"
+  -
+    question: "Which one of the following projections will best demonstrate signs of Osgood-Schlatter disease?"
+    answer: "D"
+    options:
+      - "Plantodorsal (axial) and lateral calcaneus"
+      - "AP, lateral, and oblique ankle"
+      - "AP bilateral weight-bearing knees"
+      - "AP and lateral knee"
+  -
+    question: "A correctly positioned lateral ankle will demonstrate the lateral malleolus superimposed over the posterior half of the tibia."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Situation: A patient enters radiology with a possible ligament tear to the lateral aspect of the ankle. Initial ankle radiographs are negative for fracture or dislocation. Because the clinic is in a rural setting, the patient cannot have an MRI performed to evaluate the ligaments of the ankle. Which of the following techniques may provide an assessment of the soft tissue structures of the ankle?"
+    answer: "C"
+    options:
+      - "AP weight-bearing projections"
+      - "AP mortise projection"
+      - "AP stress projections"
+      - "Axial plantodorsal projection"

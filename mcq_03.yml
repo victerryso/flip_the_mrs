@@ -128,6 +128,7 @@
   -
     question: "Part i refers to the:"
     answer: "D"
+    image: mcq-03-17.png
     options:
       - "hyoid bone"
       - "larynx"
@@ -136,6 +137,7 @@
   -
     question: "Part ii refers to the:"
     answer: "A"
+    image: mcq-03-17.png
     options:
       - "hyoid bone"
       - "larynx"
@@ -144,6 +146,7 @@
   -
     question: "Part iii refers to the:"
     answer: "C"
+    image: mcq-03-17.png
     options:
       - "thyroid cartilage"
       - "carina"
@@ -152,6 +155,7 @@
   -
     question: "Part iv refers to the:"
     answer: "C"
+    image: mcq-03-17.png
     options:
       - "laryngeal prominence"
       - "carina"
@@ -160,6 +164,7 @@
   -
     question: "Part v refers to the:"
     answer: "D"
+    image: mcq-03-17.png
     options:
       - "trachea"
       - "larynx"
@@ -168,6 +173,7 @@
   -
     question: "Part vi refers to the:"
     answer: "A"
+    image: mcq-03-17.png
     options:
       - "trachea"
       - "larynx"

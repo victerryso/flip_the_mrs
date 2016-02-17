@@ -9,5 +9,4 @@ Week 01 - In Class Introduction
      page_03
      page_04
      page_06
-     page_07
      page_08

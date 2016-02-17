@@ -1,0 +1,686 @@
+-
+  question: The forearm consists of which of the following bones?
+  answer: [ A, B ]
+  options:
+    - ulna
+    - radius
+    - humerus
+-
+  question: "The bone part shown in the figure above is the:"
+  answer: B
+  options:
+    - distal ulna
+    - proximal ulna
+    - distal radius
+    - proximal radius
+-
+  question: "The bone part identified in the figure above is the:"
+  answer: C
+  options:
+    - radial notch
+    - trochlear notch
+    - coronoid process
+    - olecranon process
+-
+  question: "The area identified on the bone in the figure above is the:"
+  answer: B
+  options:
+    - radial notch
+    - trochlear notch
+    - coronoid process
+    - olecranon process
+-
+  question: The arm is made up of which of the following bones?
+  answer: [ C ]
+  options:
+    - ulna
+    - radius
+    - humerus
+-
+  question: "The bone identified in the figure above is the:"
+  answer: D
+  options:
+    - radius
+    - tibia
+    - ulna
+    - humerus
+-
+  question: "The head of the radius articulates on the medial side with the:"
+  answer: D
+  options:
+    - coronoid process
+    - trochlear notch
+    - ulnar styloid process
+    - radial notch
+-
+  question: "The capitulum of the humerus articulates with the:"
+  answer: A
+  options:
+    - radial head
+    - trochlea
+    - lateral epicondyle
+    - ulnar coronoid process
+-
+  question: "Soft tissue radiographs of the elbow in the lateral position are often ordered to demonstrate:"
+  answer: C
+  options:
+    - veins
+    - nerves
+    - fat pads
+    - fractures
+-
+  question: "The bone identified in the figure above is the:"
+  answer: A
+  options:
+    - ulna
+    - radius
+    - tibia
+    - humerus
+-
+  question: "The bone identified in the figure above is the:"
+  answer: B
+  options:
+    - ulna
+    - radius
+    - fibula
+    - humerus
+-
+  question: "The aspect of bone identified in the figure above is the:"
+  answer: C
+  options:
+    - trochlea
+    - capitulum
+    - radial head
+    - olecranon process
+-
+  question: "The bone part identified in the figure above is the:"
+  answer: D
+  options:
+    - trochlea
+    - capitulum
+    - radial head
+    - olecranon process
+-
+  question: "The bone or bone part identified in the figure above is the:"
+  answer: A
+  options:
+    - ulna
+    - radius
+    - humerus
+    - olecranon process
+-
+  question: "For the AP projection of the elbow, the humeral epicondyles are:"
+  answer: B
+  options:
+    - perpendicular to the IR
+    - parallel to the IR
+    - superimposed over each other
+    - not clearly seen
+-
+  question: "For the AP projection of the elbow, the hand is:"
+  answer: B
+  options:
+    - pronated
+    - supinated
+    - placed in the lateral position
+    - placed in the 45-degree oblique position
+-
+  question: "For the lateral projection of the elbow, the elbow joint should be flexed:"
+  answer: D
+  options:
+    - 25 degrees
+    - 45 degrees
+    - 75 degrees
+    - 90 degrees
+-
+  question: Which of the following should be on the same plane for a lateral projection of the elbow?
+  answer: [ A, B, C ]
+  options:
+    - wrist joint
+    - elbow joint
+    - shoulder joint
+-
+  question: Which of the following is shown in profile on a lateral projection of the elbow?
+  answer: C
+  options:
+    - radial neck
+    - radial head
+    - olecranon process
+    - humeral epicondyles
+-
+  question: How many degrees should the elbow be angled for an AP oblique projection in medial rotation?
+  answer: C
+  options:
+    - 35 degrees
+    - 40 degrees
+    - 45 degrees
+    - 55 degrees
+-
+  question: Which of the following would be projected free of superimposition for an AP oblique projection of the elbow with medial rotation?
+  answer: B
+  options:
+    - lateral epicondyle
+    - coronoid process
+    - olecranon process
+    - olecranon fossa
+-
+  question: Which of the following projections of the elbow will demonstrate the olecranon process within the olecranon fossa?
+  answer: C
+  options:
+    - AP, acute flexion
+    - AP, partial flexion
+    - AP oblique, medial rotation
+    - AP oblique, lateral rotation
+-
+  question: How many degrees should the elbow be angled for an AP oblique projection in lateral rotation?
+  answer: C
+  options:
+    - 30 degrees
+    - 40 degrees
+    - 45 degrees
+    - 50 degrees
+-
+  question: Which of the following is demonstrated free of superimposition on an AP oblique projection of the elbow in lateral rotation?
+  answer: C
+  options:
+    - capitulum
+    - trochlea
+    - radial head and neck
+    - olecranon process
+-
+  question: Which of the following projections of the elbow will demonstrate the radial head and neck free of superimposition?
+  answer: A
+  options:
+    - AP oblique projection, lateral rotation
+    - AP oblique projection, medial rotation
+    - AP projection, partial flexion
+    - AP projection, acute flexion
+-
+  question: If a patient is unable to extend the forearm for an AP projection of the elbow, how many projections are necessary to avoid distortion of the joint?
+  answer: A
+  options:
+    - 2
+    - 3
+    - 4
+    - 5
+-
+  question: What is the central-ray angulation for the AP elbow when the forearm is partially flexed?
+  answer: A
+  options:
+    - 0 degrees
+    - 5 degrees
+    - 10 degrees
+    - 5 to 10 degrees
+-
+  question: "The position recommended to increase patient comfort when performing an AP projection of the humerus is:"
+  answer: D
+  options:
+    - prone
+    - recumbent
+    - supine
+    - upright
+-
+  question: How far above the humeral head should the upper margin of the IR be placed for an AP humerus?
+  answer: C
+  options:
+    -  inch
+    - 1 inch
+    -  inches
+    - 2 inches
+-
+  question: What position should the hand be placed in for the AP projection of the humerus?
+  answer: A
+  options:
+    - supine
+    - prone
+    - lateral
+    - 30 degrees oblique, medial rotation
+-
+  question: Which of the following positions of the hand will place the epicondyles parallel with the plane of the IR?
+  answer: C
+  options:
+    - lateral
+    - prone
+    - supine
+    - 45 degrees oblique
+-
+  question: Which of the following objects would be necessary to perform an x-ray examination of the humerus?
+  answer: [ A, C ]
+  options:
+    - sandbag
+    - 30-degree angle sponge
+    - lead shield
+-
+  question: Where is the central ray directed for an AP projection of the humerus?
+  answer: D
+  options:
+    - elbow joint
+    - shoulder joint
+    - body of the humerus
+    - midpoint of the humerus
+-
+  question: Which of the following is shown in profile on an AP projection of the humerus?
+  answer: C
+  options:
+    - capitulum
+    - glenoid cavity
+    - greater tubercle
+    - lesser tubercle
+-
+  question: Which of the following must be clearly demonstrated on an AP projection of the humerus?
+  answer: [ A, C ]
+  options:
+    - elbow joint
+    - glenoid cavity
+    - shoulder joint
+-
+  question: How far above the humeral head should the upper margin of the IR be placed for a lateral projection of the humerus?
+  answer: D
+  options:
+    -  inch
+    - 1 inch
+    -  inches
+    -  inches
+-
+  question: "Rotating the arm medially for a lateral projection of the humerus will place the epicondyles:"
+  answer: D
+  options:
+    - at a 30-degree angle with the plane of the IR
+    - at a 45-degree angle with the plane of the IR
+    - parallel with the plane of the IR
+    - perpendicular with the plane of the IR
+-
+  question: Which of the following breathing techniques should be used for an AP projection of the humerus?
+  answer: A
+  options:
+    - suspended respiration
+    - full inspiration
+    - full expiration
+    - shallow breathing
+-
+  question: Which of the following breathing techniques should be used for a lateral projection of the humerus?
+  answer: D
+  options:
+    - shallow breathing
+    - full inspiration
+    - full expiration
+    - suspended respiration
+-
+  question: Which of the following is shown in profile on a lateral projection of the humerus?
+  answer: C
+  options:
+    - capitulum
+    - glenoid cavity
+    - lesser tubercle
+    - greater tubercle
+-
+  question: Which of the following must be clearly demonstrated on a lateral projection of the humerus?
+  answer: [ B, C ]
+  options:
+    - glenoid cavity
+    - elbow joint
+    - shoulder joint
+-
+  question: Which of the following positions can be used to perform a lateral projection of the humerus on a patient who has a suspected fracture?
+  answer: D
+  options:
+    - supine
+    - standing
+    - lateral decubitus
+    - lateral recumbent
+-
+  question: Where is the central ray directed for a lateral projection of the humerus?
+  answer: D
+  options:
+    - elbow joint
+    - shoulder joint
+    - glenoid cavity
+    - midpoint of the humerus
+-
+  question: Which of the following methods is used when the arm cannot be abducted for the standard AP or lateral projection of the humerus?
+  answer: B
+  options:
+    - Stecher
+    - Lawrence
+    - Norgaard
+    - Gaynor-Hart
+-
+  question: The shallow depression, located on the anterior side of the distal humerus, receives which of the following when the elbow is flexed?
+  answer: B
+  options:
+    - trochlea
+    - coronoid fossa
+    - capitulum
+    - radial fossa
+-
+  question: Which of the following general procedures should be observed when performing x-ray examinations of the upper limb?
+  answer: [ A, C ]
+  options:
+    - remove rings and watches
+    - have the patient change into a gown
+    - use an R or L marker on each image
+-
+  question: Which of the following would not be needed for radiographic examinations of the upper limb?
+  answer: C
+  options:
+    - lead apron
+    - sandbags
+    - compression band
+    - foam wedges
+-
+  question: "The posterior fat pad lies in the:"
+  answer: B
+  options:
+    - coronoid fossa
+    - olecranon fossa
+    - radial fossa
+    - radial notch
+-
+  question: Which fat pad lies parallel with the anterior aspect of the proximal radius?
+  answer: D
+  options:
+    - Anterior
+    - coronoid
+    - posterior
+    - supinator
+-
+  question: Which fat pads are seen on a negative lateral elbow radiograph?
+  answer: [ A, C ]
+  options:
+    - anterior
+    - posterior
+    - supinator
+-
+  question: Which fat pad is identified in the figure above?
+  answer: A
+  options:
+    - Anterior
+    - Posterior
+    - Coronoid
+    - Supinator
+-
+  question: "The central-ray angulation for both of the axiolateral projections (Coyle method) of the elbow is:"
+  answer: D
+  options:
+    - 30 degrees
+    - 35 degrees
+    - 40 degrees
+    - 45 degrees
+-
+  question: "To demonstrate the radial head in the axiolateral projection of the elbow (Coyle method), the elbow is flexed:"
+  answer: D
+  options:
+    - 30 degrees
+    - 45 degrees
+    - 80 degrees
+    - 90 degrees
+-
+  question: "To demonstrate the coronoid process in the axiolateral projection of the elbow (Coyle method), the elbow is flexed:"
+  answer: B
+  options:
+    - 45 degrees
+    - 80 degrees
+    - 90 degrees
+    - 80 to 90 degrees
+-
+  question: How is the hand positioned for the axiolateral projection of the elbow (Coyle method)?
+  answer: A
+  options:
+    - supine
+    - prone
+    - 30-degree oblique
+    - 45-degree oblique
+-
+  question: "The primary structures shown when demonstrating the elbow using the Coyle method are the:"
+  answer: [ B, C ]
+  options:
+    - coracoid process
+    - coronoid process
+    - radial head
+-
+  question:	Which of the following bony structures is found on the distal aspect of the ulna?
+  answer: B
+  options:
+    - Coronoid process
+    - Head
+    - Olecranon process
+    - All of the above
+-
+  question:	Which one of the following structures is not part of the ulna?
+  answer: C
+  options:
+    - Styloid process
+    - Radial notch
+    - Ulnar notch
+    - Coronoid tubercle
+
+-
+  question:	Which of the following structures is considered to be most proximal?
+  answer: C
+  options:
+    - Head of ulna
+    - Coronoid process
+    - Olecranon process
+    - Radial tuberosity
+-
+  question:	Which of the following structures is considered to be most lateral?
+  answer: A
+  options:
+    - Capitulum
+    - Proximal radioulnar joint
+    - Trochlea
+    - Coronoid tubercle
+-
+  question:	Which of the following structures is considered to be most posterior?
+  answer: D
+  options:
+    - Coronoid process
+    - Radial tuberosity
+    - Trochlea
+    - Olecranon process
+-
+  question:	Which of the following structures is considered to be most distal?
+  answer: B
+  options:
+    - Radial head
+    - Styloid process
+    - Radial tuberosity
+    - Capitulum
+-
+  question:	Which two structures primarily form the hingelike structure and movement of the elbow joint?
+  answer: A
+  options:
+    - Trochlea and olecranon process
+    - Capitulum and trochlea
+    - Coronoid process and coronoid fossa
+    - Coronoid fossa and trochlea
+-
+  question:	What is the name of the two small depressions found on the anterior aspect of the distal humerus?
+  answer: C
+  options:
+    - Trochlea and capitulum
+    - Olecranon and coronoid fossa
+    - Radial and coronoid fossa
+    - Olecranon and radial fossa
+-
+  question:	Which two structures form the distal radioulnar joint?
+  answer: B
+  options:
+    - Radial notch and radial head
+    - Ulnar notch and head of ulna
+    - Radial tuberosity and ulnar notch
+    - Coronoid tubercle and radial notch
+-
+  question:	What two bony landmarks are palpated for positioning of the elbow?
+  answer: B
+  options:
+    - Radial and ulnar styloid processes
+    - Humeral epicondyles
+    - Humeral condyles
+    - Trochlea and capitulum
+-
+  question:	"The smooth, depressed, center portion of the trochlea used for evaluating rotation on a lateral elbow is termed the:"
+  answer: D
+  options:
+    - trochlear process.
+    - trochlear fossa.
+    - trochlear depression.
+    - trochlear sulcus.
+-
+  question:	What is the distance between the tabletop and Bucky tray on most floating tabletop type of tables?
+  answer: D
+  options:
+    -  to 1 inch (1.3 to 2.5 cm)
+    - 1 to 2 inches (2.5 to 5.1 cm)
+    - 2 to 3 inches (5 to 7.6 cm)
+    - 3 to 4 inches (8 to 10 cm)
+-
+  question:	A general positioning rule is to place the long axis of the part ____ to the long axis of the image receptor.
+  answer: D
+  options:
+    - perpendicular
+    - adjacent
+    - axial
+    - parallel
+-
+  question:	How should the original exposure factors be changed with a fiberglass cast applied for a wrist or forearm radiographic procedure?
+  answer: C
+  options:
+    - No change
+    - Increase mAs 50% to 60%
+    - Increase mAs 25% to 30%
+    - Increase 8 to 10 kV
+-
+  question:	"Grids are generally not required unless the anatomy measures greater than:"
+  answer: B
+  options:
+    - 8 cm.
+    - 10 cm.
+    - 14 cm.
+    - 5 cm.
+-
+  question: Nuclear medicine is generally more sensitive than radiography for assessing bones of the upper limb for either metastatic bone lesions or stress fractures.
+  answer: A
+  options:
+    - True
+    - False
+-
+  question: "Local or generalized infection of bone or bone marrow caused by bacteria introduced by trauma or surgery is a condition termed:"
+  answer: A
+  options:
+    - osteomyelitis
+    - Paget’s disease
+    - osteoarthritis.
+    - cellulitis.
+-
+  question:	How much rotation of the humeral epicondyles is required for the AP medial oblique projection of the elbow?
+  answer: C
+  options:
+    - 30°
+    - 90°
+    - 45°
+    - 20°
+-
+  question:	What is the purpose of performing the AP partially flexed projections of the elbow?
+  answer: C
+  options:
+    - To provide a view of the radial head and capitulum
+    - To separate the radial head from the ulna
+    - To provide an AP perspective if patient cannot fully extend elbow
+    - To demonstrate any possible elevated fat pads
+-
+  question:	Which routine projection of the elbow best demonstrates the radial head and tuberosity free of superimposition?
+  answer: D
+  options:
+    - AP
+    - Lateral
+    - AP oblique with medial rotation
+    - AP oblique with lateral rotation
+-
+  question:	Which routine projection of the elbow best demonstrates the olecranon process in profile?
+  answer: B
+  options:
+    - AP
+    - Lateral
+    - Medial rotation oblique
+    - Lateral rotation oblique
+-
+  question:	Which basic projection of the elbow best demonstrates the trochlear notch in profile?
+  answer: B
+  options:
+    - AP
+    - Lateral
+    - Medial rotation oblique
+    - Lateral rotation oblique
+-
+  question:	How should the humeral epicondyles be aligned for a lateral projection of the elbow?
+  answer: B
+  options:
+    - Parallel to image receptor
+    - Perpendicular to image receptor
+    - 45° to image receptor
+    - 30° to image receptor
+-
+  question:	"Situation: A radiograph of the elbow demonstrates the radius directly superimposed over the ulna and the coronoid process in profile. Which projection of the elbow has been performed?"
+  answer: D
+  options:
+    - AP
+    - Lateral
+    - Lateral rotation oblique
+    - Medial rotation oblique
+-
+  question:	Which routine projection of the elbow will best demonstrate an elevated or visible posterior fat pad?
+  answer: B
+  options:
+    - True AP with no rotation
+    - True lateral with 90° flexion
+    - Lateral rotation oblique
+    - Coyle method
+-
+  question:	With the radial head projections, what is the only difference between the four projections?
+  answer: A
+  options:
+    - The position of the hand and/or wrist
+    - The CR angulation
+    - The amount of flexion of elbow
+    - The SID used for each projection
+-
+  question:	Which of the following best demonstrates the radial head using the trauma lateral Coyle method routine?
+  answer: C
+  options:
+    - Elbow flexed 80°, CR angled 45° away from shoulder
+    - Elbow flexed 90°, CR angled 30° toward shoulder
+    - Elbow flexed 90°, CR angled 45° toward shoulder
+    - Elbow flexed 90°, CR perpendicular to image receptor
+-
+  question:	What is the proper name for the acute flexion elbow projection?
+  answer: D
+  options:
+    - Coyle method
+    - Gaynor-Hart method
+    - Modified Stecher method
+    - Jones method
+-
+  question:	"Situation: A radiograph of an AP projection of the elbow reveals that there is complete separation of the proximal radius and ulna. What positioning error has been committed?"
+  answer: C
+  options:
+    - Excessive medial rotation
+    - Partial flexion of the joint
+    - Excessive lateral rotation
+    - Incorrect CR location and angle
+-
+  question:	"Situation: A radiograph of an AP oblique elbow with medial rotation reveals that the radial head is superimposed over part of the coronoid process. What positioning error has been committed?"
+  answer: A
+  options:
+    - Excessive medial rotation
+    - Flexion of the elbow
+    - Excessive lateral rotation
+    - Incorrect CR angulation
+-
+  question:	"Situation: A patient enters the ER in severe pain with a possible dislocation of the elbow. The patient has the elbow flexed more than 90°. Which one of the following routines should be performed to confirm the diagnosis?"
+  answer: A
+  options:
+    - Partially flexed AP and limited lateral projections
+    - Jones method and limited lateral projection
+    - Coyle method and limited lateral projection
+    - Lateral elbow only

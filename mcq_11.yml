@@ -1,0 +1,309 @@
+---
+  -
+    question: "Another term for the intercondylar sulcus is the:"
+    answer: "B"
+    options:
+      - "articular facets."
+      - "patellar surface."
+      - "femoropatellar joint space."
+      - "intercondylar recess."
+  -
+    question: "The patella is drawn into the intercondylar sulcus when the knee is overextended."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "A tear of the tibial (medial) collateral ligament (MCL) due to a trauma injury is frequently associated with tears of the:"
+    answer: "A"
+    options:
+      - "anterior cruciate ligament (ACL) and the medial meniscus."
+      - "posterior cruciate ligament (PCL) and the lateral meniscus."
+      - "fibular lateral collateral ligament (LCL) and the patella ligament."
+      - "None of the above"
+  -
+    question: "Saclike structures found in the knee joint that allow smooth articulation between ligaments and tendons are called:"
+    answer: "A"
+    options:
+      - "bursae."
+      - "menisci."
+      - "synovial membranes."
+      - "synovial bodies."
+  -
+    question: "Which of the following structures is not an aspect of the proximal femur?"
+    answer: "C"
+    options:
+      - "Intertrochanteric crest"
+      - "Fovea capitis"
+      - "Obturator foramen"
+      - "Lesser trochanter"
+  -
+    question: "Which of the following structures is considered to be most inferior or distal?"
+    answer: "B"
+    options:
+      - "Fovea capitis"
+      - "Lesser trochanter"
+      - "Neck"
+      - "Greater trochanter"
+  -
+    question: "A common condition of the femur that develops in elderly patients, leading to frequent fractures of the hip (proximal femur), is:"
+    answer: "C"
+    options:
+      - "congenital hip dysplasia."
+      - "Legg-Calvé-Perthes disease."
+      - "avascular necrosis"
+      - "developmental dysplasia of the hip."
+  -
+    question: "To decrease the angle between the anterior surface of the foot and anterior surface of the lower leg is described as:"
+    answer: "C"
+    options:
+      - "plantar flexion."
+      - "inversion."
+      - "dorsiflexion."
+      - "eversion."
+  -
+    question: "The patellofemoral joint is a ____ joint with a ____ type of movement."
+    answer: "C"
+    options:
+      - "synovial; ginglymus"
+      - "fibrous; immovable"
+      - "synovial; sellar"
+      - "synovial; bicondylar"
+  -
+    question: "Which tendon attaches directly to the tibial tuberosity?"
+    answer: "A"
+    options:
+      - "Patellar"
+      - "Quadriceps"
+      - "Soleus"
+      - "Collateral"
+  -
+    question: "A radiographic appearance of a well-circumscribed lucency within bones describes:"
+    answer: "C"
+    options:
+      - "gout."
+      - "Ewing’s sarcoma."
+      - "a bone cyst."
+      - "Osgood-Schlatter disease."
+  -
+    question: "The best method of evaluating injuries to the menisci and ligaments of the knee joint involves:"
+    answer: "D"
+    options:
+      - "stress views of the knee."
+      - "AP, AP oblique, and lateral projections of the knee."
+      - "intercondylar fossa projections."
+      - "an MRI procedure."
+  -
+    question: "A lateral knee radiograph that is overrotated toward the image receptor can be recognized by which of the following?"
+    answer: "B"
+    options:
+      - "The fibular head will appear more superimposed by the tibia than a true lateral."
+      - "The fibular head will appear less superimposed by the tibia than a true lateral."
+      - "The medial condyle of femur will appear more posterior."
+      - "Both A and C are correct."
+  -
+    question: "Which projection of the ankle will open up the distal tibiofibular joint?"
+    answer: "A"
+    options:
+      - "AP oblique with 45° rotation"
+      - "AP mortise projection"
+      - "Lateromedial ankle"
+      - "AP projection"
+  -
+    question: "What CR angulation is required for an AP projection of the knee on a patient with an ASIS-to-tabletop measurement of 18 cm?"
+    answer: "A"
+    options:
+      - "3° to 5° caudad"
+      - "CR is perpendicular to the IR"
+      - "3° to 5° cephalad"
+      - "10° to 15° cephalad"
+  -
+    question: "Which projection of the knee will best demonstrate the styloid process of the fibula without superimposition?"
+    answer: "C"
+    options:
+      - "AP"
+      - "Lateral"
+      - "AP oblique with medial rotation"
+      - "AP oblique with lateral rotation"
+  -
+    question: "What CR angle should be used for a lateral projection of the knee on a short, wide-pelvis patient?"
+    answer: "C"
+    options:
+      - "No CR angle is required."
+      - "5° cephalad"
+      - "7° to 10° cephalad"
+      - "5° to 10° caudad"
+  -
+    question: "What is the major disadvantage of using 45° of flexion for the mediolateral projection of the knee?"
+    answer: "A"
+    options:
+      - "Draws the patella into the intercondylar sulcus"
+      - "Possible injury to the anterior cruciate ligament"
+      - "Prevents superimposition of the distal aspect of the femoral condyles"
+      - "Can distort any visible fat pads"
+  -
+    question: "The patient skin dose range for any of the ankle or foot projections is:"
+    answer: "B"
+    options:
+      - "less than 5 mrad."
+      - "10 to 30 mrad."
+      - "50 to 75 mrad."
+      - "100 to 150 mrad."
+  -
+    question: "Follow-up radiographs for a fractured tibia and fibula may include only the joint closest to the site of injury."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "What type of CR angle is required for the PA axial weight-bearing bilateral knee projection (Rosenberg method)?"
+    answer: "A"
+    options:
+      - "10° caudad"
+      - "5° to 7° cephalad"
+      - "20° to 25° caudad"
+      - "None. CR is perpendicular to IR."
+  -
+    question: "Which special position of the knee requires that the patient be placed supine with 40° flexion of knee with CR angled 30° from long axis of femur?"
+    answer: "A"
+    options:
+      - "Bilateral Merchant method"
+      - "PA axial, Camp-Coventry method"
+      - "PA axial, Holmblad method"
+      - "Tangential, Hughston method"
+  -
+    question: "How much flexion of the knee is recommended for the lateral projection of the patella?"
+    answer: "A"
+    options:
+      - "5° to 10° or less"
+      - "20° to 30°"
+      - "35° to 40°"
+      - "45° to 50°"
+  -
+    question: "The adductor tubercle is present on the lateral femoral condyle and can be used to determine possible rotation of a lateral knee projection."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The posterior visibility of the adductor tubercle on a lateral knee projection indicates:"
+    answer: "B"
+    options:
+      - "overrotation of knee toward the IR."
+      - "underrotation of knee toward the IR."
+      - "a true lateral knee."
+      - "the CR should be angled 5° to 7° cephalad."
+  -
+    question: "Situation: A radiograph of a lateral projection of the patella reveals that the femoropatellar joint space is not open. The patella is within the intercondylar sulcus. The most likely cause of this is:"
+    answer: "D"
+    options:
+      - "excessive extension of the knee."
+      - "excessive angulation of the CR."
+      - "insufficient angulation of the CR."
+      - "excessive flexion of the knee."
+  -
+    question: "Situation: A radiograph of an AP knee reveals rotation with almost total superimposition of the fibular head and the proximal tibia. What must the technologist do to correct this positioning error on the repeat exposure?"
+    answer: "B"
+    options:
+      - "Rotate the knee laterally slightly."
+      - "Rotate the knee medially slightly."
+      - "Angle the CR slightly more cephalad."
+      - "Nothing; this is an acceptable image."
+  -
+    question: "Situation: A radiograph of a PA axial projection for the intercondylar fossa does not demonstrate the fossa well. It is foreshortened. The following positioning factors were used: patient prone, knee flexed 40° to 45°, CR angled to be perpendicular to the femur, 40-inch SID, and no rotation of the lower limb. Based on the factors used, what changes need to be made to produce a more diagnostic image?"
+    answer: "B"
+    options:
+      - "Increase SID to at least 48 inches"
+      - "CR must be perpendicular to lower leg"
+      - "Rotate lower extremity 10° medially"
+      - "Reduce flexion of the knee to 20° to 30°"
+  -
+    question: "Situation: A patient comes to radiology with a clinical history of osteoarthritis of both knees. The referring physician wants a projection to evaluate the damage to the articular facets. Which of the following projections will provide the best image of this region of the knee?"
+    answer: "C"
+    options:
+      - "Tangential projection (Hughston method)"
+      - "AP axial projection (Béclere method)"
+      - "PA axial weight-bearing bilateral knee projection (Rosenberg method)"
+      - "Tangential projection (Settegast Method)"
+  -
+    question: "Situation: A patient comes to the radiology department for a knee study with special interest in the region of the proximal tibiofibular joint and the lateral condyle of the tibia. Which of the following positioning routines should the technologist obtain?"
+    answer: "C"
+    options:
+      - "AP and lateral knee"
+      - "AP, lateral, and lateral oblique knee"
+      - "AP, lateral, and medial oblique knee"
+      - "AP, lateral, and PA axial intercondylar fossa"
+  -
+    question: "Situation: A geriatric patient comes to the radiology department for a study of the knee. The patient is unsteady and unsure of himself. Which intercondylar fossa projection would provide the best results without risk of injury to the patient?"
+    answer: "C"
+    options:
+      - "Holmblad method"
+      - "Hughston method"
+      - "Camp-Coventry method"
+      - "Rosenberg method"
+  -
+    question: "Situation: A patent enters the ER with a possible transverse fracture of the patella. Which of the following routines would safely provide the best images of the patella?"
+    answer: "A"
+    options:
+      - "AP and horizontal beam lateral, no flexion"
+      - "AP and 5° to 10° flexion lateral"
+      - "AP and Merchant method"
+      - "PA and 45° PA oblique with medial rotation"
+  -
+    question: "Situation: A patient comes to radiology with a history of chondromalacia of the patella. The orthopedic surgeon is concerned about possible loose bodies in the femoropatellar joint space. She wants the best projection to demonstrate this joint space. What projection should be performed?"
+    answer: "D"
+    options:
+      - "Camp-Coventry method"
+      - "Settegast method"
+      - "AP axial projection"
+      - "Merchant method"
+  -
+    question: "Situation: A patient comes to radiology with a history of chondromalacia of the patella. Her physician orders a projection of the patellofemoral joint space. Due to advanced emphysema, the patient cannot lie recumbent for this projection. Which of the following projections would be best for this patient?"
+    answer: "D"
+    options:
+      - "Tangential projection—Settegast method"
+      - "Tangential projection—Merchant method"
+      - "AP axial projection—Béclere method"
+      - "Superoinferior sitting tangential method"
+  -
+    question: "Which one of the following projections will best demonstrate signs of Osgood-Schlatter disease?"
+    answer: "D"
+    options:
+      - "Plantodorsal (axial) and lateral calcaneus"
+      - "AP, lateral, and oblique ankle"
+      - "AP bilateral weight-bearing knees"
+      - "AP and lateral knee"
+  -
+    question: "The proper name for the AP axial projection of the intercondylar fossa of the knee method using a curved cassette is the Béclere method."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "A 3° to 5° caudad CR angle should be used for an AP knee projection for patients with thick thighs."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The correct CR placement for an AP projection of the knee is midpatella."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "For the AP weight-bearing knee projection on an average patient, the CR should be:"
+    answer: "C"
+    options:
+      - "10° caudad."
+      - "5° to 10° cephalad."
+      - "perpendicular to the image receptor."
+      - "CR perpendicular to the image receptor but increase SID to 60 inches (150 cm)."
+  -
+    question: "How much knee flexion is required for the weight-bearing PA axial projection (Rosenberg method) of the knee?"
+    answer: "C"
+    options:
+      - "None. Knee is fully extended"
+      - "30° flexion"
+      - "45° flexion"
+      - "50 to 60° flexion"

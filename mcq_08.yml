@@ -1,0 +1,284 @@
+
+-
+  question: Which of the following are required to produce optimal radiographs during foreign body localization?
+  answer: [ A, B, C ]
+  options:
+    - small focal spot
+    - maximum control of motion
+    - exact AP or PA and lateral projections
+-
+  question: Which of the following would be considered a trauma radiography guideline?
+  answer: [ B, C ]
+  options:
+    - remove all splints
+    - do not move the patient unless necessary
+    - obtain a minimum of two radiographs of each body part
+-
+  question: Which imaging modality has replaced conventional trauma skull radiography in most Level I trauma centers?
+  answer: A
+  options:
+    - CT
+    - MRI
+    - nuclear medicine
+    - angiography
+-
+  question: The trauma radiographer must ensure other team members are protected from unnecessary radiation. Which of the following practices will accomplish this?
+  answer: [ A, C ]
+  options:
+    - lead aprons for all personnel that remain in the room during exposures
+    - short exposure times
+    - announcement of impending exposure to allow nonessential personnel to exit the room
+-
+  question: Which of the following procedures are appropriate for trauma patients?
+  answer: [ B, C ]
+  options:
+    - remove immobilization devices that may cause imaging artifacts
+    - move tube and IR, instead of injured part, when possible
+    - perform all AP projections, then all lateral projections
+-
+  question: Which projection is necessary if the top of T1 and the C7-T1 interspace is not clearly demonstrated on the lateral projection, dorsal decubitus position of the cervical spine?
+  answer: B
+  options:
+    - AP projection, open-mouth position
+    - lateral projection, swimmer's technique
+    - lateral projection of the thoracic spine
+    - AP axial c-spine
+-
+  question: Which projection must be evaluated prior to taking any other images on a trauma patient?
+  answer: C
+  options:
+    - AP projection of the atlas and axis, open-mouth position
+    - lateral projection, swimmer's technique
+    - lateral projection of the c-spine, dorsal decubitus position
+    - AP axial c-spine
+-
+  question: Which imaging modality is often used to evaluate trauma to the abdomen?
+  answer: D
+  options:
+    - CT
+    - MRI
+    - NM
+    - sonography
+-
+  question: "Extreme eversion of the foot is a sign of traumatic injury to the:"
+  answer: D
+  options:
+    - tibia and fibular
+    - knee joint
+    - pelvis
+    - hip
+-
+  question: "If a trauma patient loses consciousness during an imaging procedure, the imaging professional should:"
+  answer: C
+  options:
+    - assess the patient's airway
+    - check the patient's pulse
+    - notify the ED physician immediately
+    - check the patient's pupil responses
+-
+  question:	"A child will be less likely to be upset or agitated if:"
+  answer: B
+  options:
+    - the technologist is quick
+    - the room is prepared before he or she enters it
+    - the room is brightly lit
+    - immobilized immediately
+-
+  question:	"If parents are allowed in the room they should wear:"
+  answer: C
+  options:
+    - only an apron to protect from scatter
+    - nothing is necessary if they aren't in the beam
+    - an apron and gloves if their hands are in the beam
+    - never allow parents in the room
+-
+  question:	"Chest radiography should be performed:"
+  answer: A
+  options:
+    - only when children are awake
+    - only when children are asleep
+    - at any time (it doesn't matter)
+-
+  question:	"One of the greatest dangers facing a premature neonate is:"
+  answer: C
+  options:
+    - sudden weight gain
+    - thermoregulation
+    - hypothermia
+    - exposure to barium
+-
+  question:	"A myelomeningocele, which is cystic protrusion of the meninges and spinal cord, is:"
+  answer: A
+  options:
+    - a congenital defect
+    - caused by improper handling
+    - a minor problem
+    - acquired after birth
+-
+  question:	Epiglottitis is considered an emergency. What is at least one symptom?
+  answer: D
+  options:
+    - irritability
+    - gastroesophagitis
+    - granulocytosis
+    - dysphasia
+-
+  question:	"The following can be used to protect children from unnecessary radiation exposure:"
+  answer: [ A, B ]
+  options:
+    - appropriate use of filters
+    - precise collimation
+    - gonad shielding always
+-
+  question:	When performing limb radiography, what may be required to evaluate for fracture?
+  answer: B
+  options:
+    - additional immobilization
+    - the contralateral side
+    - use of large focal spot
+    - no soft tissue
+-
+  question:	What is the most common location for an aspirated foreign body?
+  answer: C
+  options:
+    - stomach
+    - esophagus
+    - right side of bronchial tree
+    - left side of bronchial tree
+-
+  question:	When a radiographer suspects child abuse, what is the required response?
+  answer: D
+  options:
+    - notify the state child welfare office/social services
+    - call the police
+    - ask a nurse to look at the child
+    - notify the radiologist or attending physician
+-
+  question:	Which types of fractures are classic indicators of physical abuse of a child?
+  answer: [ B, C ]
+  options:
+    - spiral fractures
+    - bucket handle fractures
+    - posterior rib fractures
+-
+  question:	Which of the following are problems with performing "babygrams" to survey a child for suspected physical abuse?
+  answer: [ A, B, C ]
+  options:
+    - distortion
+    - improper exposure of body parts
+    - increased scatter
+-
+  question:	Which body parts can be imaged on pediatric patients using the Pigg-O-Stat immobilizer?
+  answer: B
+  options:
+    - head and neck
+    - chest and abdomen
+    - upper and lower limb
+    - pelvis and lower limbs
+-
+  question:	"All of the following are methods to time the exposure on inspiration during chest radiography on a young child, except:"
+  answer: D
+  options:
+    - watch the rise and fall of the sternum
+    - watch the abdomen
+    - wait for the end of a cry
+    - wait for the beginning of a cry
+-
+  question:	Aging and disease are considered synonymous.
+  answer: B
+  options:
+    - True
+    - False
+-
+  question:	Dementia is a natural part of the aging process.
+  answer: B
+  options:
+  - True
+  - False
+-
+  question:	It is inappropriate to address elderly patients as "honey" or "dear."
+  answer: A
+  options:
+  - True
+  - False
+-
+  question:	Ageism is a term that is used to describe ____ of the elderly.
+  answer: C
+  options:
+    - a chronic condition
+    - social and psychological changes
+    - stereotyping and discrimination
+    - preferential treatment
+-
+  question:	"The aging experience is individual and is affected by:"
+  answer: [ A, B, C ]
+  options:
+    - attitude
+    - lifestyle choices
+    - heredity
+-
+  question:	What system accounts for almost 50% of disability in patients older than age 65?
+  answer: D
+  options:
+    - cardiovascular
+    - gastrointestinal
+    - musculoskeletal
+    - nervous
+-
+  question:	"A common fracture site for an elderly person with osteoporosis is the:"
+  answer: B
+  options:
+    - first metatarsal
+    - distal radius
+    - humeral head
+    - olecranon process
+-
+  question:	What is one of the leading causes of death among the elderly?
+  answer: A
+  options:
+    - pneumonia
+    - pancreatitis
+    - bronchitis
+    - emphysema
+-
+  question:	Which of the following would be common sites for decubitus ulcers?
+  answer: [ A, C ]
+  options:
+    - heel
+    - knee
+    - elbow
+    - 1 and 2
+    - 1 and 3
+    - 2 and 3
+    - 1, 2, and 3
+-
+  question:	"Traditional positioning for a chest radiograph may be difficult for the elderly patient. An alternative would be to:"
+  answer: C
+  options:
+    - position the patient for an AP
+    - have a CT scan for the chest
+    - wrap his or her arms around the chest stand
+    - leave arms down at the side of the body
+-
+  question:	"Exposure factors for the elderly:"
+  answer: D
+  options:
+    - do not require any changes
+    - call for increased kVp
+    - may need longer time settings
+    - often require lower kVp
+-
+  question:	"When imaging the upper or lower limbs on geriatric patients, keep in mind that:"
+  answer: B
+  options:
+    - many projections can be combined to decrease time and discomfort
+    - mobility and flexibility is often decreased
+    - long bones shrink as age increases
+    - scatter radiation is greater in those with osteoporosis
+-
+  question:	Which of the following musculoskeletal conditions increases in incidence as age increases?
+  answer: [ A, B ]
+  options:
+    -  osteoporosis
+    -  degenerative joint disease
+    -  Osgood-Schlatter's disease

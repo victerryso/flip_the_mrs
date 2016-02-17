@@ -1,0 +1,417 @@
+---
+  -
+    question: "Which term describes the medial end of the clavicle?"
+    answer: "C"
+    options:
+      - "Acromial extremity"
+      - "Acromion"
+      - "Sternal extremity"
+      - "Acromial tuberosity"
+  -
+    question: "The female clavicle is usually shorter and less curved than that of the male."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "The anterior surface of the scapula is referred to as the:"
+    answer: "D"
+    options:
+      - "scapular surface."
+      - "dorsal surface."
+      - "supraspinous and infraspinous fossa."
+      - "costal surface."
+  -
+    question: "What is the name of the large fossa found within the anterior surface of the scapula?"
+    answer: "C"
+    options:
+      - "Supraspinous fossa"
+      - "Infraspinous fossa"
+      - "Subscapular fossa"
+      - "Glenoid fossa"
+  -
+    question: "All of the joints of the shoulder girdle are diarthrodial."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Which of the following joints is considered to have a spheroidal type of movement?"
+    answer: "D"
+    options:
+      - "Acromioclavicular joints"
+      - "Sternoclavicular joints"
+      - "Bicipital joint"
+      - "Scapulohumeral joint"
+  -
+    question: "Which AP projection of the shoulder and proximal humerus is created by placing the affected palm of the hand against the thigh?"
+    answer: "B"
+    options:
+      - "Internal rotation"
+      - "Neutral rotation"
+      - "External rotation"
+      - "AP axial"
+  -
+    question: "The erect tangential projection for the intertubercular groove results in about twice the skin dose compared with the same projection taken with the patient supine because of the shorter SOD (source object distance) with the erect position."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Which of the following shoulder positions is considered a trauma projection (can be performed safely for a possible fracture or dislocation)?"
+    answer: "A"
+    options:
+      - "Apical oblique (Garth method) projection"
+      - "Inferosuperior axial (Clements modification) projection"
+      - "AP projection-internal rotation"
+      - "None of the above"
+  -
+    question: "What medial CR angle is required for the inferosuperior axial shoulder (transaxillary method) projection?"
+    answer: "C"
+    options:
+      - "5° to 10°"
+      - "40° to 45°"
+      - "25° to 30°"
+      - "10° to 15°"
+  -
+    question: "What additional maneuver must be added to the inferosuperior axial shoulder (transaxillary method) projection to best demonstrate a possible Hill-Sachs defect?"
+    answer: "C"
+    options:
+      - "Increase medial CR angulation"
+      - "Angle CR 10° to 15° downward or posteriorly in addition to the medial angle"
+      - "Perform exaggerated external rotation of the affected upper limb"
+      - "Increase abduction of affected upper limb"
+  -
+    question: "Which of the following shoulder projections best demonstrates the glenoid fossa in profile?"
+    answer: "A"
+    options:
+      - "Grashey method"
+      - "Clements modification"
+      - "Garth method"
+      - "AP shoulder, neutral rotation"
+  -
+    question: "A radiograph of the inferosuperior axial projection (transaxillary method)demonstrates the acromion process of the shoulder to be located most superiorly (anteriorly)."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "For a Grashey method projection of the shoulder, the CR is centered to the acromion."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "How much posterior CR angulation is required for the supine version of the tangential projection for the intertubercular (bicipital) groove?"
+    answer: "C"
+    options:
+      - "20° to 30°"
+      - "30° to 40°"
+      - "10° to 15°"
+      - "No angle is used for this projection."
+  -
+    question: "Which ionization chamber(s) for the AEC should be used for a tangential projection for intertubercular groove?"
+    answer: "D"
+    options:
+      - "Center chamber"
+      - "Both outside chambers"
+      - "Left chamber"
+      - "Cannot use AEC with this projection"
+  -
+    question: "Which of the following projections can be performed using a breathing technique?"
+    answer: "D"
+    options:
+      - "Scapular Y lateral projection"
+      - "Inferosuperior axiolateral projection"
+      - "AP clavicle"
+      - "AP scapula"
+  -
+    question: "How much CR angulation should be used for a scapular Y projection?"
+    answer: "A"
+    options:
+      - "No CR angle should be used."
+      - "10° to 15°"
+      - "20° to 30°"
+      - "35° to 45°"
+  -
+    question: "Where is the CR centered for a transthoracic lateral projection?"
+    answer: "C"
+    options:
+      - "1 inch (2.5 cm) inferior to the acromion"
+      - "Level of the greater tubercle"
+      - "Level of surgical neck"
+      - "Midaxilla"
+  -
+    question: "The proper name for the AP apical oblique axial projection of the shoulder is the Fisk modification."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "An apical oblique projection for an anteriorly dislocated scapulohumeral joint will project the humerus _____ to the glenoid cavity."
+    answer: "B"
+    options:
+      - "superior"
+      - "inferior"
+      - "lateral"
+      - "medial"
+  -
+    question: "Which projection of the shoulder requires that the patient be rotated 45° to 60° toward the IR from a PA position?"
+    answer: "C"
+    options:
+      - "Inferosuperior axiolateral projection"
+      - "AP oblique projection"
+      - "Lateral scapula projection"
+      - "None of the above"
+  -
+    question: "Which of the following modalities best demonstrates shoulder joint pathology such as rotator cuff tears using dynamic evaluation techniques during joint movements?"
+    answer: "A"
+    options:
+      - "Ultrasound"
+      - "MRI"
+      - "CT"
+      - "Arthrography"
+  -
+    question: "Which of the following conditions requires a decrease in manual exposure factors?"
+    answer: "D"
+    options:
+      - "Advanced osteoporosis"
+      - "Advanced rheumatoid arthritis"
+      - "Severe osteoarthritis"
+      - "All of the above"
+  -
+    question: "How much CR angulation is required for an asthenic patient for an AP axial projection of the clavicle?"
+    answer: "B"
+    options:
+      - "15°"
+      - "30°"
+      - "45°"
+      - "No CR angulation should be used for this projection."
+  -
+    question: "Where is the CR centered for an AC joint projection on a single 14 × 17-inch (35 × 43 cm) image receptor?"
+    answer: "B"
+    options:
+      - "At the affected AC joint"
+      - "1 inch (2.5 cm) above jugular notch"
+      - "At the level of the thyroid cartilage"
+      - "At the sternal angle"
+  -
+    question: "Situation: A radiograph of an AP oblique projection for the glenoid cavity reveals that the anterior and posterior rims of the glenoid process are not superimposed. Which of the following modifications should produce a more acceptable image?"
+    answer: "C"
+    options:
+      - "Angle CR 5° to 10° caudad"
+      - "Angle CR 5° to 10° cephalad"
+      - "Increase rotation of the body"
+      - "Abduct the arm slightly"
+  -
+    question: "Situation: A radiograph of a transthoracic lateral projection reveals that it is difficult to visualize the proximal humerus due to the ribs and lung markings. The following exposure factors were used: 75 kV, 30 mAs, 40-inch (102 cm) SID, grid, suspended respiration. Which of the following changes will improve the quality of the image?"
+    answer: "D"
+    options:
+      - "Make the exposure on second inspiration."
+      - "Use a compression band to prevent patient movement."
+      - "Use a 72-inch SI"
+      - "Use a breathing technique."
+  -
+    question: "Situation: A radiograph for an AP projection with external rotation of the proximal humerus reveals that the greater tubercle is profiled laterally. What should be changed to improve this image for a repeat exposure?"
+    answer: "D"
+    options:
+      - "Rotate epicondyles so they are perpendicular to the image receptor."
+      - "Move the patient obliquely 10° to 15° toward the affected side."
+      - "Rotate the arm to place palm of the patient’s hand against the thigh."
+      - "Positioning is acceptable; do not repeat it."
+  -
+    question: "Situation: A radiograph of an AP clavicle reveals that the sternal extremity is partially collimated off. What should the technologist do?"
+    answer: "A"
+    options:
+      - "Repeat the AP projection and correct collimation."
+      - "Make sure the sternal extremity is included on the AP axial projection."
+      - "Only repeat it if the patient’s pain/symptoms involve the sternal extremity."
+      - "Ask the radiologist whether he or she wants the projection repeated."
+  -
+    question: "Situation: A radiograph of an scapular Y lateral position reveals that the scapula is slightly rotated (the vertebral and axillary borders are not superimposed). The axillary border of the scapula is determined to be more lateral compared with the vertebral border. Which of the following modifications should be made for the repeat exposure?"
+    answer: "A"
+    options:
+      - "Decrease rotation of thorax"
+      - "Decrease CR angle"
+      - "Increase rotation of thorax"
+      - "Abduct the arm more and flex it at the elbow"
+  -
+    question: "Situation: A patient comes to radiology for treatment of an arthritic condition of the right shoulder. The radiologist orders AP internal/external rotation projections and an inferosuperior axiolateral projection of the scapulohumeral joint. However, the patient cannot abduct the arm for this projection. Which other projection will best demonstrate the scapulohumeral joint space?"
+    answer: "A"
+    options:
+      - "Posterior oblique (Grashey method)"
+      - "Scapular Y lateral"
+      - "Transthoracic lateral"
+      - "AP projection–neutral rotation"
+  -
+    question: "Situation: A patient comes to the ER with a possible right AC joint separation. Right clavicle and AC joint exams are ordered. The clavicle is taken first, and a small linear fracture of the midshaft of the clavicle is discovered. What should the technologist do in this situation?"
+    answer: "C"
+    options:
+      - "Perform the weight-bearing phase as ordered."
+      - "Reduce the amount of weight that would normally be given to the patient and perform the weight-bearing study."
+      - "Consult with the ER physician before continuing with the AC joint study."
+      - "Slowly give the patient more weight to hold until he begins to complain, then complete the AC joint study."
+  -
+    question: "Situation: A referring physician suspects that a subacromial spur may be the cause for a patient’s arm numbness. She asks the technologist for a projection that would best demonstrate any possible spurs. Which of the following projections would accomplish this objective?"
+    answer: "A"
+    options:
+      - "PA scapular Y lateral with 10° to 15° caudal angle"
+      - "PA scapular Y lateral with 10° to 15° cephalad angle"
+      - "AP oblique shoulder with 45° caudal angle"
+      - "AP shoulder with 10° to 15° caudal angle"
+  -
+    question: "Situation: A patient enters the ER with multiple injuries. The physician is concerned about a dislocation of the left proximal humerus. The patient is unable to stand. Which of the following routines is advisable to best demonstrate this condition?"
+    answer: "D"
+    options:
+      - "AP shoulder and inferosuperior axiolateral projection"
+      - "AP shoulder and 35° to 40° LPO position (Grashey method)"
+      - "AP shoulder and Neer projection"
+      - "AP shoulder and recumbent AP oblique scapular Y projection"
+  -
+    question: "Situation: A patient enters the ER with a possible AC joint separation. The patient is paraplegic; therefore, the study cannot be done erect. Which of the following routines would be performed to diagnose this condition?"
+    answer: "A"
+    options:
+      - "Non–weight-bearing and weight-bearing type of projections performed with the patient recumbent by pulling down on the shoulders"
+      - "Recumbent AP and AP axial projection of the clavicles to include AC joints"
+      - "AP projections of shoulders with external and internal rotation performed recumbent"
+      - "AP and AP apical oblique projection of the shoulder performed recumbent"
+  -
+    question: "Situation: A patient enters the ER with a possible bony defect of the midwing area of the scapula. The patient is able to stand and move the upper limb freely. In addition to the routine AP scapula projection with the arm abducted, which of the following would best demonstrate the involved area?"
+    answer: "C"
+    options:
+      - "Take an apical oblique projection of the shoulder."
+      - "Take a transthoracic lateral projection of the shoulder region."
+      - "Have the patient reach across the chest and grasp the opposite shoulder for a lateral scapula projection."
+      - "Have the patient drop the affected arm behind him or her and take a lateral scapula projection."
+  -
+    question: "The recommended SID for AC joints is 72 inches (183 cm)."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "The Hill-Sachs defect is a fracture of the articular surface of the glenoid cavity."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The arm should be abducted about 45° for an AP scapula."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The thyroid dose for a transthoracic lateral and inferosuperior axiolateral shoulder projection is relatively low, less than 10 mrad."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The thyroid dose for an AP projection of the AC joints is relatively low (less than 10 mrad) if correct collimation is used."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "A posterior dislocation of the shoulder occurs more frequently than an anterior dislocation."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "The Alexander method for AC joints requires a 15° cephalic CR angle."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "For AC joint weight-bearing studies, patients should not be asked to hold on to the weights with their hands; rather the weights should be attached to the wrists."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Which of the following AP shoulder projections demonstrates the greater tubercle in profile medially?"
+    answer: "D"
+    options:
+      - "External rotation"
+      - "Internal rotation"
+      - "Neutral rotation"
+      - "None of the above"
+  -
+    question: "Which of the following AP shoulder projections demonstrates the lesser tubercle in profile medially?"
+    answer: "B"
+    options:
+      - "External rotation"
+      - "Internal rotation"
+      - "Neutral rotation"
+      - "None of the above"
+  -
+    question: "Both the thyroid and breast dosages for a transthoracic lateral shoulder are up to ____ times greater than for a routine AP shoulder."
+    answer: "B"
+    options:
+      - 5
+      - 20
+      - 2
+      - "None of the above"
+  -
+    question: "Situation: A patient enters the ER with a dislocated shoulder. The technologist attempts to position the patient into the transthoracic lateral projection, but the patient is unable to raise the unaffected arm over his head completely. What can the technologist do to compensate for the patient’s inability to raise his arm completely?"
+    answer: "D"
+    options:
+      - "Perform the Grashey method instead."
+      - "Use a breathing technique."
+      - "Increase kV to penetrate through both shoulders."
+      - "Angle the CR 10° to 15° cephalad."
+  -
+    question: "Situation: A Clements modification is performed on a patient with a nontraumatic shoulder injury. The patient can not fully abduct the upper limb 90°. Which of the following modifications of the position should be performed for this patient?"
+    answer: "B"
+    options:
+      - "Angle CR 30° toward the axilla"
+      - "Angle CR 5 to 15° toward the axilla"
+      - "Angle CR 45° toward the elbow AC joint separation"
+      - "Rotate should slightly anterior to open joint space"
+  -
+    question: "Situation: A radiograph of an AP axial projection of the clavicle demonstrates that the clavicle is within the midaspect of the lung apices. What should the technologist do to correct this error?"
+    answer: "C"
+    options:
+      - "Do nothing; this is an acceptable AP axial clavicle projection."
+      - "Increase the caudal CR angle during repeat exposure."
+      - "Increase the cephalic CR angle during repeat exposure."
+      - "Make the exposure upon complete inspiration."
+  -
+    question: "What is a common radiographic sign for impingement syndrome of the shoulder?"
+    answer: "D"
+    options:
+      - "Calcified tendons"
+      - "Fluid-filled joint space"
+      - "Fracture of the glenoid rim"
+      - "Subacromial spurring"
+  -
+    question: "What type of CR angle is required for the superoinferior axial projection (Hobbs modification)?"
+    answer: "A"
+    options:
+      - "CR is perpendicular to IR"
+      - "5° to 15° toward axilla"
+      - "25° away from axilla"
+      - "10° toward shoulder"
+  -
+    question: "Sonography is an effective diagnostic tool in studying the shoulder joint."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "Shoulder radiography produces a significant dose to the breast and thyroid gland."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "What is the common term for idiopathic chronic adhesive capsulitis?"
+    answer: "D"
+    options:
+      - "Bankart lesion"
+      - "Tendinitis"
+      - "Bursitis"
+      - "Frozen shoulder"

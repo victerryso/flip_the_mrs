@@ -1,0 +1,211 @@
+---
+  -
+    question: "How many tarsal bones are found in the foot?"
+    answer: "A"
+    options:
+      - 7
+      - 14
+      - 5
+      - 26
+  -
+    question: "Which metatarsal bone of the foot has a prominent tuberosity frequently fractured?"
+    answer: "D"
+    options:
+      - "First"
+      - "Third"
+      - "Fourth"
+      - "Fifth"
+  -
+    question: "Which term describes the top or anterior surface of the foot?"
+    answer: "B"
+    options:
+      - "Palmar"
+      - "Dorsum"
+      - "Volar"
+      - "Plantar"
+  -
+    question: "Where would the interphalangeal joint be found in the foot?"
+    answer: "C"
+    options:
+      - "Between the phalanges of the second through fifth digits"
+      - "Between the tarsal bones and phalanges"
+      - "Between the phalanges of the first digit"
+      - "Between any of the metatarsals and phalanges"
+  -
+    question: "Which structure or bone contains the sustentaculum tali?"
+    answer: "A"
+    options:
+      - "Calcaneus"
+      - "Talus"
+      - "Base of the fifth metatarsal"
+      - "Tibia"
+  -
+    question: "How many facets make up the subtalar joint?"
+    answer: "C"
+    options:
+      - "One"
+      - "Two"
+      - "Three"
+      - "Four"
+  -
+    question: "What are the two arches of the foot?"
+    answer: "B"
+    options:
+      - "Anterior and longitudinal"
+      - "Longitudinal and transverse"
+      - "Transverse and anterior"
+      - "Instep and cross-step"
+  -
+    question: "The calcaneus articulates with the talus and the:"
+    answer: "A"
+    options:
+      - "cuboid."
+      - "navicular."
+      - "medial cuneiform."
+      - "lateral cuneiform."
+  -
+    question: "To reduce scatter radiation during tabletop procedures, the Bucky tray should not be positioned directly under the lower limb being radiographed."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "How much CR angulation (if any) should be used for an AP projection of the toes?"
+    answer: "C"
+    options:
+      - "Keep CR perpendicular to IR"
+      - "5° toward calcaneus"
+      - "10° to 15° toward calcaneus"
+      - "20° to 25° toward calcaneus"
+  -
+    question: "Which of the following routines should be performed for a study of the second toe?"
+    answer: "B"
+    options:
+      - "AP, AP oblique with lateral rotation, mediolateral projection"
+      - "AP, AP oblique with medial rotation, lateromedial projection"
+      - "AP, AP oblique with lateral rotation, lateromedial projection"
+      - "AP, AP oblique with medial rotation, mediolateral projection"
+  -
+    question: "How much is the foot dorsiflexed with the tangential projection for the sesamoid bones if the CR remains perpendicular to the image receptor?"
+    answer: "A"
+    options:
+      - "15° to 20° from vertical"
+      - "No flexion of foot is required"
+      - "5° to 7° from vertical"
+      - "30° to 45° from vertical"
+  -
+    question: "To properly visualize the joint spaces with the AP projection of the foot, the CR must be:"
+    answer: "B"
+    options:
+      - "parallel to the longitudinal arch."
+      - "perpendicular to the metatarsals."
+      - "perpendicular to the longitudinal arch."
+      - "parallel to the metatarsals."
+  -
+    question: "Which position of the foot will best demonstrate the lateral (third) cuneiform?"
+    answer: "A"
+    options:
+      - "AP oblique with medial rotation"
+      - "AP oblique with lateral rotation"
+      - "AP projection"
+      - "Mediolateral projection"
+  -
+    question: "What is one advantage of the lateromedial projection of the foot?"
+    answer: "C"
+    options:
+      - "It is more comfortable for the patient"
+      - "It better demonstrates the intertarsal joints"
+      - "The foot assumes a more true lateral position"
+      - "It opens up the subtalar joint"
+  -
+    question: "What CR angulation is required for the AP oblique projection of the foot?"
+    answer: "A"
+    options:
+      - "CR is perpendicular to the image receptor"
+      - "10° posterior"
+      - "15° to 20° posterior"
+      - "5° to 7° posterior"
+  -
+    question: "How much CR angulation to the long axis of the foot is required for the plantodorsal (axial) projection of the calcaneus?"
+    answer: "D"
+    options:
+      - "45° to 50°"
+      - "15° to 20°"
+      - "30° to 35°"
+      - "40°"
+  -
+    question: "Where is the CR placed for a mediolateral projection of the calcaneus?"
+    answer: "D"
+    options:
+      - "Base of the fifth metatarsal"
+      - "Trochlear process"
+      - "Base of the third metatarsal"
+      - "1 inch (2.5 cm) distal to medial malleolus"
+  -
+    question: "Situation: A radiograph of an AP projection of the second toe reveals that the interphalangeal joints are not open. What is the most likely cause for this radiographic outcome?"
+    answer: "D"
+    options:
+      - "Rotation of the toes"
+      - "Excessive SID was used"
+      - "AP projection was made; should have performed the PA projection"
+      - "Incorrect CR centering or angle"
+  -
+    question: "A radiograph of an AP medial oblique projection of the foot, if positioned correctly, should demonstrate:"
+    answer: "B"
+    options:
+      - "first through fifth metatarsals free of superimposition."
+      - "third through fifth metatarsals free of superimposition."
+      - "first and second cuneiform joint space is open."
+      - "CR is centered to midshaft of third metatarsal."
+  -
+    question: "The tangential projection for the sesamoid bones of the foot should be performed with the patient prone rather than supine to minimize image magnification, if patient condition allows it."
+    answer: "A"
+    options:
+      - true
+      - false
+  -
+    question: "The foot must be force dorsiflexed so the long axis of the foot is perpendicular to the image receptor for AP and mortise projections of the ankle."
+    answer: "B"
+    options:
+      - true
+      - false
+  -
+    question: "For the AP weight-bearing feet projection, the CR should be:"
+    answer: "B"
+    options:
+      - "perpendicular to the image receptor."
+      - "angled 15° posteriorly."
+      - "directed horizontal."
+      - "directed 5° posteriorly."
+  -
+    question: "Situation: A patient comes to radiology with an infection involving the sesamoid bones of the foot. Beyond the routine foot projections, which one of the following projections can be performed to best demonstrate these structures?"
+    answer: "D"
+    options:
+      - "PA axial Camp-Coventry method"
+      - "AP weight-bearing foot projection"
+      - "Lateral weight-bearing projection"
+      - "Tangential projection"
+  -
+    question: "Which of the following imaging modalities and/or procedures will provide the best assessment for osteomyelitis of the foot?"
+    answer: "A"
+    options:
+      - "Nuclear medicine"
+      - "Ultrasound"
+      - "Computed tomography"
+      - "Arthrography"
+  -
+    question: "Situation: A radiograph of an AP oblique foot with medial rotation demonstrates considerable superimposition of the third through fifth metatarsals. How must the original position be changed to eliminate this problem?"
+    answer: "B"
+    options:
+      - "Increase obliquity of the foot"
+      - "Decrease obliquity of the foot"
+      - "Increase CR angle"
+      - "Decrease CR angle"
+  -
+    question: "How much knee flexion is required for the weight-bearing PA axial projection (Rosenberg method) of the knee?"
+    answer: "C"
+    options:
+      - "None. Knee is fully extended"
+      - "30° flexion"
+      - "45° flexion"
+      - "50 to 60° flexion"

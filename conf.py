@@ -41,7 +41,7 @@ sys.path.insert(0, os.path.abspath('.'))
 # GENERAL CONFIGURATION
 #
 ###############################################################################
-global_data_context             = 'Medical Radiation Science' # @@NAME YOUR CONTEXT@@
+global_data_context             = 'mrsc5001' # @@NAME YOUR CONTEXT@@
 global_data_entry_url           = '/data2u/leco/post_entry' # @@URL TO COLLECT DATA@@
 global_data_entry_method        = 'POST'
 global_data_subject_field_name  = 'leco_subject_field'

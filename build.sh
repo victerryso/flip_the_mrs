@@ -8,6 +8,7 @@ make html
 # open _build/html/index.html
 
 # Production in Github Pages
+ruby mcq.rb
 cd _build/html
 touch .nojekyll
 git init
