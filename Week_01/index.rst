@@ -1,5 +1,5 @@
 *******************************
-Week 01 - In Class Introduction
+Week 01 - Just testing
 *******************************
 
 .. toctree::
