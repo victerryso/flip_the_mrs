@@ -40,19 +40,19 @@ Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~
 
 5. Read an Article
 ------------------
-From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class on Monday (9AM-10AM) to discuss articles with colleagues and post relevant questions to Piazza.
+From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class on Monday (9AM-10AM) to discuss articles with colleagues and post relevant questions to `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
 6. Post to Piazza
 -----------------
-Piazza is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class on Monday (9AM-10AM) to post and answer questions.
+`Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class on Monday (9AM-10AM) to post and answer questions.
 
-To `Piazza. <https://piazza.com/>`_
+`Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
 **How to use the discussion board**
-No one is expected to read every post made within Piazza. Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
+No one is expected to read every post made within `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
 
 7. Take the MCQ
 -----------------
-To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. If you are struggling with a particular question, we suggest you post your problem to Piazza. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
+To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. If you are struggling with a particular question, we suggest you post your problem to `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
 
 MCQs will be available from Week 3 onwards.
