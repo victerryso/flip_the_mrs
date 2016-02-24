@@ -28,7 +28,7 @@ output = mcqs.each_with_index.map do |mcq, mcq_index|
 
   mcq_template = """
   .. eqt#{multi}:: mcq-#{week}-#{mcq_number}
-  
+    
      **Question #{mcq_number}** #{mcq[:question]}
   """
 
