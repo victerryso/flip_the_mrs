@@ -4,6 +4,10 @@ Week 03 - Chest
 
 .. toctree::
 
+     preclass
+     inclass
+     practical
+     imageinterpretation
      page_01
      page_02
      page_03

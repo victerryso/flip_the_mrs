@@ -3,10 +3,7 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 02 - Justification, Request Cards and Chest
-
-.. embedded-video:: 155333853
-   :format: vimeo
+Welcome to Week 3 - Chest
 
 .. embedded-video:: 155333854
    :format: vimeo
@@ -41,14 +38,13 @@ Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~
    :alt: Bontrager's Handbook
    :figclass: reference
 
-5. Readings
------------
-`Malone, J., Guleria, R., Craven, C., Horton, P., Järvinen, H., Mayo, J., ... & Rehani, M. (2014). Justification of diagnostic medical exposures: some practical issues. Report of an International Atomic Energy Agency Consultation. The British journal of radiology. <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3479887/>`_
-
-`Mathews, J. D., Forsythe, A. V., Brady, Z., Butler, M. W., Goergen, S. K., Byrnes, G. B., ... & McGale, P. (2013). Cancer risk in 680 000 people exposed to computed tomography scans in childhood or adolescence: data linkage study of 11 million Australians. <http://usyd.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMwRV1LDsIgEG2Mib87mHcAm8inlLptNB5A18ZSSFxoG-vCQ3hoZ6StOxZ8MhCGGXi8t0ymlLf6Cf9DZIo7q9R89IwUm86SuVSm0Mbmi-RTsmlPMIwatweM3W6oGiJ6Gv7dNp2v8WrgosYBl-89lzM6GrzjZm5gAUbzxMiE5PwODLMEP4XS5sSPsBVNgBBgTR8yHP8bhW6VnA_7U3lMexWCtBVKyzSwGEUeKFApKPUxIsgiqyyjw2xOwVVBDqKqdS2k8LpyzuVZyGh5rNLGXKViQfZ17DeecJc20khchmlQX18RW3g>`_
+5. Read an Article
+------------------
+From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class on Monday (9AM-10AM) to discuss articles with colleagues and post relevant questions to `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
 6. Post to Piazza
 -----------------
+`Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class on Monday (9AM-10AM) to post and answer questions.
 
 `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
