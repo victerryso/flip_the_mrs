@@ -1,6 +1,6 @@
 
-Multiple Choice Questions
-=============================================
+7. Multiple Choice Questions Set No. 1 
+==============================================
 
   .. eqt:: mcq-03-1
 

@@ -6,9 +6,12 @@ file = "mcq_#{week}.yml"
 exit unless Pathname(file).exist?
 mcqs = YAML.load_file(file)
 
+5.times do |mcqSet|
+  mcqSet += 1
+
 header_template = """
-Multiple Choice Questions
-=============================================
+7. Multiple Choice Questions Set No. #{mcqSet} 
+==============================================
 """
 
 mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
@@ -61,5 +64,7 @@ end
 
 data = header_template + mcqs.join('')
 
-file = "Week_#{week}/page_07.rst"
+file = "Week_#{week}/page_07_#{mcqSet}.rst"
 File.write(file, data)
+
+end

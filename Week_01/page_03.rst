@@ -1,10 +1,7 @@
-OSCE
+C: Practical
 =============================================
 
-.. figure:: /Images/osce_logo.png
-   :target: http://osceskills.com
-   :width: 480px
-   :alt: OSCE
-   :figclass: reference
+10. Attend
+-----------------
 
-Read the following `OSCE <http://osceskills.com>`_ example cases histories and determine using the imaging pathways whether this patience chest x-ray is justified or not. 
+M008 Radiography practical with tutors Ms Amanda Punch and Mr Terry Jones.

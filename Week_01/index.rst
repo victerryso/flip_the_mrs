@@ -1,5 +1,5 @@
 *******************************
-Week 01 - Just testing
+Week 01 - Introducing MRSC5001
 *******************************
 
 .. toctree::
@@ -8,5 +8,3 @@ Week 01 - Just testing
      page_02
      page_03
      page_04
-     page_06
-     page_08
