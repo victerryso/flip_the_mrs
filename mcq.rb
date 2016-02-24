@@ -1,6 +1,6 @@
 require 'yaml'
 require 'pathname'
-
+require 'byebug'
 week = '03'
 file = "mcq_#{week}.yml"
 exit unless Pathname(file).exist?
@@ -10,12 +10,12 @@ mcqs = YAML.load_file(file)
   mcqSet += 1
 
 header_template = """
-7. Multiple Choice Questions Set No. #{mcqSet} 
+Multiple Choice Questions Set No. #{mcqSet} 
 ==============================================
 """
 
 mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
-
+  p mcq
   mcq = Hash[mcq.map { | (k,v) | [k.to_sym, v] } ]
 
   mcq_number = mcq_index + 1
@@ -38,7 +38,7 @@ mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
 
   options = mcq[:options].each_with_index.map do |option, option_index|
 
-    carrier = option_index.zero? ? 'A' : '#'
+    carrier = option_index == 0 ? 'A' : '#'
 
     letter  = (65 + option_index).chr
 
@@ -64,7 +64,8 @@ end
 
 data = header_template + mcqs.join('')
 
-file = "Week_#{week}/page_07_#{mcqSet}.rst"
+`touch Week_#{week}/mcq_#{mcqSet}.rst`
+file = "Week_#{week}/mcq_#{mcqSet}.rst"
 File.write(file, data)
 
 end
