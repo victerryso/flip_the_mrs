@@ -9,6 +9,6 @@ The first half of our lecture time is an opportunity to discuss the Pre-Class re
 -----------------------------------------------------
 We will be exploring the questions and examining the evidence base (research papers) as well as scaffolding for the OSCE preparation with typical examination requests.
 
-Note: Lecture recordings will be available for revision
--------------------------------------------------------
+**Note: Lecture recordings will be available for revision**
+
 You may revise the second half of our lecture via echo360 via `Blackboard. <https://elearning.sydney.edu.au/>`_ Note, it may take 24 hours for recordings to become available.

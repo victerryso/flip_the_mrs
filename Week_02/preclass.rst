@@ -14,16 +14,13 @@ Welcome to Week 02 - Justification, Request Cards and Chest
 2. Visit Imaging Pathways
 -------------------------
 
-Diagnostic Imaging Pathways (DIP) is a locally and internationally acclaimed online decision support and educational tool. We encourage you to be proactive and resourceful, embrace self reliance and work your way through this resource at your own pace.
+`Imaging Pathways. <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_ is a locally and internationally acclaimed online decision support and educational tool. We encourage you to be proactive and resourceful, embrace self reliance and work your way through this resource at your own pace.
 
 .. figure:: /Images/imaging_pathways_logo.jpg
    :target: http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways
    :width: 480px
    :alt: Imaging Pathways
    :figclass: reference
-
-`Imaging Pathways.
-<http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_
 
 3. MRSflix
 -----------------------------------
@@ -53,7 +50,6 @@ Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~
 `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
 **How to use the discussion board**
-
 No one is expected to read every post made within `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
 
 7. Take the MCQ
