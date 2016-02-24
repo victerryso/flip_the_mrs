@@ -1,14 +1,10 @@
-***************************************************
-Week 02 - Justification and Request Cards and Chest
-***************************************************
+*******************************
+Week 01 - Introducing MRSC5001
+*******************************
 
 .. toctree::
 
-     page_01
-     page_02
-     page_03
-     page_04
-     page_05
-     page_06
-     page_07
-     page_08
+     preclass
+     inclass
+     practical
+     imageinterpretation
