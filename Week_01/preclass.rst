@@ -49,6 +49,7 @@ From week two onwards, you will find either a link to a PDF or to the library to
 `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_
 
 **How to use the discussion board**
+
 No one is expected to read every post made within `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
 
 7. Take the MCQ
