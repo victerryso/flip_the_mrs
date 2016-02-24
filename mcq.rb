@@ -1,21 +1,27 @@
 require 'yaml'
 require 'pathname'
-require 'byebug'
-week = '03'
+
+weeks = ['03', '04', '05', '06', '07', '08', '09', '10', '11', '12' ]
+
+weeks.each do |week|
+
 file = "mcq_#{week}.yml"
 exit unless Pathname(file).exist?
+p file
 mcqs = YAML.load_file(file)
 
-5.times do |mcqSet|
-  mcqSet += 1
-
 header_template = """
-Multiple Choice Questions Set No. #{mcqSet} 
-==============================================
+Multiple Choice Questions
+=============================================
 """
 
-mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
-  p mcq
+iterations = (mcqs.length.to_f / 20).ceil
+
+iterations.times do |iteration|
+
+
+output = mcqs.each_with_index.map do |mcq, mcq_index|
+  next unless mcq_index / 20  == iteration
   mcq = Hash[mcq.map { | (k,v) | [k.to_sym, v] } ]
 
   mcq_number = mcq_index + 1
@@ -24,7 +30,6 @@ mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
 
   mcq_template = """
   .. eqt#{multi}:: mcq-#{week}-#{mcq_number}
-
      **Question #{mcq_number}** #{mcq[:question]}
   """
 
@@ -38,7 +43,7 @@ mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
 
   options = mcq[:options].each_with_index.map do |option, option_index|
 
-    carrier = option_index == 0 ? 'A' : '#'
+    carrier = option_index.zero? ? 'A' : '#'
 
     letter  = (65 + option_index).chr
 
@@ -62,10 +67,13 @@ mcqs = mcqs.each_with_index.map do |mcq, mcq_index|
 
 end
 
-data = header_template + mcqs.join('')
+iteration += 1
 
-`touch Week_#{week}/mcq_#{mcqSet}.rst`
-file = "Week_#{week}/mcq_#{mcqSet}.rst"
+data = header_template + output.join('')
+
+file = "Week_#{week}/mcq_#{iteration}.rst"
 File.write(file, data)
+
+end
 
 end
