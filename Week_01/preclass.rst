@@ -22,14 +22,15 @@ Diagnostic Imaging Pathways (DIP) is a locally and internationally acclaimed onl
 `Imaging Pathways.
 <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_
 
-3. MRSFLIX
+3. MRSflix
 -----------------------------------
 Copyright pending, we have made the equivalent of Netflix but for MRS. The series you'll be addicted to this semester is "Patient Positioning", it's first season; "The Chest". In all seriousness, each video is less than 3 minutes in duration and should be reviewed to aid preparation for practicals.
 
-`<http://mrs.meteor.com>`_
+`<http://mrsflix.elsdevelopment.com>`_
 
 4. Read Bontrager's Handbook
 ----------------------------
+Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ about the radiographic positioning and techniques for the upcoming week.
 
 .. figure:: /Images/bontrager_logo.jpg
    :target: http://opac.library.usyd.edu.au:80/record=b4698666~S4
@@ -37,18 +38,21 @@ Copyright pending, we have made the equivalent of Netflix but for MRS. The serie
    :alt: Bontrager's Handbook
    :figclass: reference
 
-Read `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ about the radiographic positioning and techniques.
-
 5. Read an Article
 ------------------
+From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class on Monday (9AM-10AM) to discuss articles with colleagues and post relevant questions to Piazza.
 
 6. Post to Piazza
 -----------------
+Piazza is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class on Monday (9AM-10AM) to post and answer questions.
+
 To `Piazza. <https://piazza.com/>`_
+
+**How to use the discussion board**
+No one is expected to read every post made within Piazza. Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
 
 7. Take the MCQ
 -----------------
+To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. If you are struggling with a particular question, we suggest you post your problem to Piazza. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
 
-8. Post to Piazza
------------------
-To `Piazza. <https://piazza.com/>`_
+MCQs will be available from Week 3 onwards.
