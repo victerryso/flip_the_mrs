@@ -10,15 +10,13 @@ exit unless Pathname(file).exist?
 p file
 mcqs = YAML.load_file(file)
 
-header_template = """
-Multiple Choice Questions
-=============================================
-"""
-
 iterations = (mcqs.length.to_f / 20).ceil
 
 iterations.times do |iteration|
 
+header_template = """MCQ: Set #{iteration + 1}
+==============================================
+"""
 
 output = mcqs.each_with_index.map do |mcq, mcq_index|
   next unless mcq_index / 20  == iteration
@@ -30,6 +28,7 @@ output = mcqs.each_with_index.map do |mcq, mcq_index|
 
   mcq_template = """
   .. eqt#{multi}:: mcq-#{week}-#{mcq_number}
+  
      **Question #{mcq_number}** #{mcq[:question]}
   """
 

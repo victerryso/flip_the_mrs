@@ -1,8 +1,8 @@
-
-Multiple Choice Questions
-=============================================
+MCQ: Set 3
+==============================================
 
   .. eqt:: mcq-04-41
+  
      **Question 41** Which projection best demonstrates pathology involving the first carpometacarpal joint?
   
      A) :eqt:`C` Ap thumb, modified robert’s method
@@ -14,6 +14,7 @@ Multiple Choice Questions
      #) :eqt:`I` Pa scaphoid, ulnar deviation wrist projection
     
   .. eqt:: mcq-04-42
+  
      **Question 42** Which of the following projections of the wrist will best demonstrate the wrist joint and intercarpal spaces if the patient can assume this position?
   
      A) :eqt:`C` Ap
@@ -25,6 +26,7 @@ Multiple Choice Questions
      #) :eqt:`I` 30° pa oblique
     
   .. eqt:: mcq-04-43
+  
      **Question 43** The CR placement for an AP projection (modified Robert’s method) of the thumb is at the
   
      A) :eqt:`C` First carpometacarpal joint
@@ -36,6 +38,7 @@ Multiple Choice Questions
      #) :eqt:`I` Midproximal phalanx of the first digit
     
   .. eqt:: mcq-04-44
+  
      **Question 44** Why should the hand be slightly arched for a PA projection of the wrist?
   
      A) :eqt:`I` To provide more comfort for the patient
@@ -47,6 +50,7 @@ Multiple Choice Questions
      #) :eqt:`C` To reduce the oid of the carpal bones
     
   .. eqt:: mcq-04-45
+  
      **Question 45** How much rotation of the hands is required for the AP oblique bilateral (Norgaard method) hand projection?
   
      A) :eqt:`C` 45°
@@ -58,6 +62,7 @@ Multiple Choice Questions
      #) :eqt:`I` 20°
     
   .. eqt:: mcq-04-46
+  
      **Question 46** Situation: A patient enters the ER with a Smith fracture. Which region of the upper limb must be radiographed to demonstrate this injury?
   
      A) :eqt:`I` Trapezium
@@ -69,6 +74,7 @@ Multiple Choice Questions
      #) :eqt:`I` Hand
     
   .. eqt:: mcq-04-47
+  
      **Question 47** Situation: A radiograph of a PA oblique of the hand reveals that the midaspect of the fourth and fifth metacarpals are superimposed. What specific positioning error has been committed?
   
      A) :eqt:`C` Excessive rotation of the hand and/or wrist
@@ -80,6 +86,7 @@ Multiple Choice Questions
      #) :eqt:`I` Fingers of the hand are not parallel to ir
     
   .. eqt:: mcq-04-48
+  
      **Question 48** Situation: A radiograph of a PA projection of the hand reveals that the distal radius and ulna and the carpals were cut off. What should the technologist do to correct this problem?
   
      A) :eqt:`I` Accept the radiograph. carpals and distal radius and ulna are not part of a hand study
@@ -91,6 +98,7 @@ Multiple Choice Questions
      #) :eqt:`C` Repeat the pa projection to include all the carpals and about 1 inch (2.5 cm) of the distal radius and ulna
     
   .. eqt:: mcq-04-49
+  
      **Question 49** Situation: A patient enters the ER with a possible Bennett’s fracture. Which of the following routines should be performed to confirm this diagnosis?
   
      A) :eqt:`I` Finger
@@ -102,6 +110,7 @@ Multiple Choice Questions
      #) :eqt:`C` Thumb
     
   .. eqt:: mcq-04-50
+  
      **Question 50** The AP oblique bilateral hands projection (“ball-catcher’s position”) is performed to evaluate for early signs of
   
      A) :eqt:`I` Gout
@@ -113,6 +122,7 @@ Multiple Choice Questions
      #) :eqt:`I` Bursitis
     
   .. eqt:: mcq-04-51
+  
      **Question 51** Situation: A patient arrives in radiology with a metal foreign body in the palm of the hand. Which of the following hand routines should be performed on this patient to confirm the location of the foreign body?
   
      A) :eqt:`C` Pa and lateral in extension projections

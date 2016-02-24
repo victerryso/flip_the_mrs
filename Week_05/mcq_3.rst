@@ -1,8 +1,8 @@
-
-Multiple Choice Questions
-=============================================
+MCQ: Set 3
+==============================================
 
   .. eqt:: mcq-05-41
+  
      **Question 41** What is the synonym for the trapezoid?
   
      A) :eqt:`C` Lesser multangular
@@ -14,6 +14,7 @@ Multiple Choice Questions
      #) :eqt:`I` Unciform
     
   .. eqt:: mcq-05-42
+  
      **Question 42** Which carpal articulates with both the fourth and fifth metacarpals?
   
      A) :eqt:`I` Triquetrum
@@ -25,6 +26,7 @@ Multiple Choice Questions
      #) :eqt:`I` Trapezoid
     
   .. eqt:: mcq-05-43
+  
      **Question 43** Which is the most commonly fractured carpal bone?
   
      A) :eqt:`I` Lunate
@@ -36,6 +38,7 @@ Multiple Choice Questions
      #) :eqt:`I` Hamate
     
   .. eqt:: mcq-05-44
+  
      **Question 44** Which carpal bone is the smallest?
   
      A) :eqt:`I` Scaphoid
@@ -47,6 +50,7 @@ Multiple Choice Questions
      #) :eqt:`I` Capitate
     
   .. eqt:: mcq-05-45
+  
      **Question 45** The radiocarpal (wrist) joint possesses a(n) ____ type of joint movement.
   
      A) :eqt:`C` Ellipsoidal
@@ -58,6 +62,7 @@ Multiple Choice Questions
      #) :eqt:`I` Trochoidal
     
   .. eqt:: mcq-05-46
+  
      **Question 46** Which wrist ligament is attached to the styloid process of the ulna and continues to the triquetrum and pisiform?
   
      A) :eqt:`I` Radial collateral ligament
@@ -69,6 +74,7 @@ Multiple Choice Questions
      #) :eqt:`C` Ulnar collateral ligament
     
   .. eqt:: mcq-05-47
+  
      **Question 47** The bending or forcing of the hand laterally with the hand pronated in a PA projection is known as:
   
      A) :eqt:`I` Radial deviation
@@ -80,6 +86,7 @@ Multiple Choice Questions
      #) :eqt:`I` Ulnar extension
     
   .. eqt:: mcq-05-48
+  
      **Question 48** The two fat stripes of the wrist demonstrated radiographically are known as the scaphoid fat stripe and the:
   
      A) :eqt:`C` Pronator fat stripe
@@ -91,6 +98,7 @@ Multiple Choice Questions
      #) :eqt:`I` Anterior fat stripe
     
   .. eqt:: mcq-05-49
+  
      **Question 49** A nonvisible posterior fat pad on a well-exposed, correctly positioned lateral elbow radiograph generally suggests:
   
      A) :eqt:`C` Negative study for injury
@@ -102,6 +110,7 @@ Multiple Choice Questions
      #) :eqt:`I` A congenital defect
     
   .. eqt:: mcq-05-50
+  
      **Question 50** What is the distance between the tabletop and Bucky tray on most floating tabletop type of tables?
   
      A) :eqt:`I` To 1 inch (1.3 to 2.5 cm)
@@ -113,6 +122,7 @@ Multiple Choice Questions
      #) :eqt:`C` 3 to 4 inches (8 to 10 cm)
     
   .. eqt:: mcq-05-51
+  
      **Question 51** A general positioning rule is to place the long axis of the part ____ to the long axis of the image receptor.
   
      A) :eqt:`I` Perpendicular
@@ -124,6 +134,7 @@ Multiple Choice Questions
      #) :eqt:`C` Parallel
     
   .. eqt:: mcq-05-52
+  
      **Question 52** How should the original exposure factors be changed with a fiberglass cast applied for a wrist or forearm radiographic procedure?
   
      A) :eqt:`I` No change
@@ -135,6 +146,7 @@ Multiple Choice Questions
      #) :eqt:`I` Increase 8 to 10 kv
     
   .. eqt:: mcq-05-53
+  
      **Question 53** Grids are generally not required unless the anatomy measures greater than:
   
      A) :eqt:`I` 8 cm
@@ -146,6 +158,7 @@ Multiple Choice Questions
      #) :eqt:`I` 5 cm
     
   .. eqt:: mcq-05-54
+  
      **Question 54** Nuclear medicine is generally more sensitive than radiography for assessing bones of the upper limb for either metastatic bone lesions or stress fractures.
   
      A) :eqt:`C` True
@@ -153,6 +166,7 @@ Multiple Choice Questions
      #) :eqt:`I` False
     
   .. eqt:: mcq-05-55
+  
      **Question 55** Carpal tunnel syndrome is more common in middle-aged women than in middle-aged men.
   
      A) :eqt:`C` True
@@ -160,6 +174,7 @@ Multiple Choice Questions
      #) :eqt:`I` False
     
   .. eqt:: mcq-05-56
+  
      **Question 56** Local or generalized infection of bone or bone marrow caused by bacteria introduced by trauma or surgery is a condition termed:
   
      A) :eqt:`C` Osteomyelitis
@@ -171,6 +186,7 @@ Multiple Choice Questions
      #) :eqt:`I` Cellulitis
     
   .. eqt:: mcq-05-57
+  
      **Question 57** Which special projection of the wrist will open up the interspaces on the ulnar side of the wrist?
   
      A) :eqt:`C` Radial deviation
@@ -182,6 +198,7 @@ Multiple Choice Questions
      #) :eqt:`I` Carpal bridge
     
   .. eqt:: mcq-05-58
+  
      **Question 58** How much CR angulation to the long axis of the hand is required for the tangential, inferosuperior projection to demonstrate the carpal sulcus (canal)?
   
      A) :eqt:`I` 10° to 15°
@@ -193,6 +210,7 @@ Multiple Choice Questions
      #) :eqt:`I` 5° to 10°
     
   .. eqt:: mcq-05-59
+  
      **Question 59** Which of the following actions will lead to the proximal radius crossing over the ulna?
   
      A) :eqt:`I` Supination of the hand
@@ -204,6 +222,7 @@ Multiple Choice Questions
      #) :eqt:`I` External rotation of elbow
     
   .. eqt:: mcq-05-60
+  
      **Question 60** Which of the following statements is not true?
   
      A) :eqt:`I` The patient skin dose for both a pa and a lateral hand is in the 80 to 100 mrad range
