@@ -5,6 +5,8 @@ D: Image Interpretation
 -----------------
 Image interpretation tutorial in M008 with Mr Steve Littlefair
 
+Note, handouts for the image interpretation will be available from Week 2.
+
 
 12. Take a Quiz
 -----------------
