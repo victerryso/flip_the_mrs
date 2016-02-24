@@ -3,7 +3,7 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Usually, you will find a video introducing the week ahead presented by A/Prof Mark McEntee in our No. 1 spot. Week 1 is the only exception, as you will meet Mark and your classmates for an in-person introduction. For now, have a sneek peek at the topic which will be covered in Week 2, Justification.
+Usually, you will find a video introducing the week ahead presented by A/Prof Mark McEntee in our No. 1 spot. Week 1 is the only exception, as you will meet Mark and your classmates for an in-person introduction. For now, have a sneak peek at the topic which will be covered in Week 2, Justification.
 
 .. embedded-video:: 155333853
    :format: vimeo

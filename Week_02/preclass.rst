@@ -3,7 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 2 - The Chest
+Welcome to Week 02 - Justification, Request Cards and Chest
+
+.. embedded-video:: 155333853
+   :format: vimeo
 
 .. embedded-video:: 155333854
    :format: vimeo
