@@ -9,17 +9,18 @@ Usually, you will find a video introducing the week ahead presented by A/Prof Ma
 
 2. Visit Imaging Pathways
 -------------------------
-`DIP: Diagnostic Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_ is a locally and internationally acclaimed online decision support and educational tool. We encourage you to be proactive and resourceful, embrace self reliance and work your way through this resource at your own pace. 
 
-DIP is also available as an app via `the App Store <https://itunes.apple.com/us/app/dip-medical-diagnostic-imaging/id985073740?l>`_ and `Google Play <https://play.google.com/store/apps/details?id=sigmalogic.dip>_`.
-
-From Week 3 onwards, you will be asked to investigate which indications are appropriate for x-ray requests for the [inset weekly topic here].
-
-.. figure:: /Images/imaging_pathways_logo.jpg
+.. figure:: /Images/imaging_pathways_logo.png
    :target: http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways
    :width: 480px
    :alt: Imaging Pathways
    :figclass: reference
+
+`DIP: Diagnostic Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_ is a locally and internationally acclaimed online decision support and educational tool. We encourage you to be proactive and resourceful, embrace self reliance and work your way through this resource at your own pace. 
+
+DIP is also available as an app via `the App Store <https://itunes.apple.com/us/app/dip-medical-diagnostic-imaging/id985073740?l>`_ and `Google Play <https://play.google.com/store/apps/details?id=sigmalogic.dip>`_.
+
+From Week 3 onwards, you will be asked to investigate which indications are appropriate for x-ray requests for the [inset weekly topic here].
 
 3. MRSflix
 -----------------------------------
