@@ -4,22 +4,16 @@ Medical Radiation Science
 ######################################################################
 
 .. figure:: Images/banner.jpg
-   :width: 300px
-   :target: #
-   :alt: Banner
-   :figclass: align-left reference
+   :width: 1100px
 
-   `MRS <#>`_
+This unit of study introduces the student the professional practice of diagnostic radiography of the appendicular skeleton. The techniques covered will include routine procedures that the student will encounter in the clinical setting. Anatomy, physiology and pathology will be integrated with corresponding radiographic techniques of selected body system. This unit of study introduces the student the professional practice of diagnostic radiography of the appendicular skeleton. The techniques covered will include routine procedures that the student will encounter in the clinical setting. Anatomy, physiology and pathology will be integrated with corresponding radiographic techniques of selected body systems. Planar anatomy and imaging will be included as appropriate. This unit will apply the evidence base, theory to practice and integrate basic applied sciences to imaging techniques. Students will be expected to supplement and broaden their learning by independent learning, literature review and research on relevant topics.
 
-Established in 1988, the discipline of Medical Radiation Sciences (MRS)
-encompasses the streams of diagnostic radiography, nuclear medicine and
-radiation therapy.
+We recommend that students take a proactive approach to organising their study. We have created a `MRSC5001-Semester Study Template-S1/2016 <https://docs.google.com/spreadsheets/d/1OYwkettyIJjqx1Tjr1yY78LNhFrLO_PiAeayGLY0SHk/edit?usp=sharing>`_ which maps the semester ahead. We suggest that you download a copy and edit the document and create your own personal schedule. 
 
-All of the MRS professions combine a high level of technical expertise, close
-patient contact and good communication skills to provide optimal patient care.
-Qualifications gained from the discipline are recognised worldwide, and
-graduates will receive full accreditation from their respective professional
-associations.
+You may also find the following apps useful during your study: `Blackboard <https://itunes.apple.com/au/app/blackboard-mobile-learn/id376413870?mt=8>`_ , `Piazza <https://itunes.apple.com/us/app/piazza/id453142230?mt=8>`_ and `DIP: Imaging Pathways <https://itunes.apple.com/us/app/dip-medical-diagnostic-imaging/id985073740?l>`_
+
+Weekly Content
+==============
 
 .. toctree::
    :maxdepth: 1

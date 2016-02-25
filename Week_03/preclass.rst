@@ -51,4 +51,4 @@ No one is expected to read every post made within `Piazza. <https://piazza.com/s
 -----------------
 To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. If you are struggling with a particular question, we suggest you post your problem to `Piazza. <https://piazza.com/sydney.edu.au/semester12016/mrsc5001/home>`_ However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
 
-MCQs will be available from this week.
+`MCQ1 <mcq_1>`_
