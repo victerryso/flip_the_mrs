@@ -5,7 +5,7 @@ D: Image Interpretation
 -----------------
 Image interpretation tutorial in M008 with Mr Steve Littlefair
 
-`Handouts. <https://mrs.elsdevelopment.com/mrsc5001/_static/tutorial_handouts/MRSC5001_TUTE_WEEK2.ppt>`_
+`Handouts <https://mrs.elsdevelopment.com/mrsc5001/_static/tutorial_handouts/MRSC5001_TUTE_WEEK2.ppt>`_
 
 11. Take a Quiz
 -----------------
