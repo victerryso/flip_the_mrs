@@ -14,4 +14,4 @@ Take an online quiz at `<http://www.imageinterpretation.co.uk>`_
 
 12. Submit
 -----------------
-Submit a certificate from the image interpretation quizzes by Week 12.
+Submit a certificate from the image interpretation quizzes by Week 12  12 via `Blackboard <http://elearning.sydney.edu.au>`_.
