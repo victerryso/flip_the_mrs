@@ -48,7 +48,7 @@ Read `Bontrager's Handbook <http://opac.library.usyd.edu.au:80/record=b4698666~S
 -----------------
 To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. There are approximately 20 questions per page and you may take as many or as few as you like.
 
-If you are struggling with a particular question, we suggest you post your problem to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=16>`_. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
+If you are struggling with a particular question, we suggest you post your problem to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=17>`_. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
 
   - `MCQ1 <mcq_1>`_
   - `MCQ2 <mcq_2>`_
