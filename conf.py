@@ -92,7 +92,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'MRSC5001'
-copyright = u'2015, Mark McEntee, The University of Sydney'
+copyright = u'2016, Mark McEntee, The University of Sydney'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
