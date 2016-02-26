@@ -14,7 +14,7 @@ iterations = (mcqs.length.to_f / 20).ceil
 
 iterations.times do |iteration|
 
-header_template = """MCQ: Set #{iteration + 1}
+header_template = """Week #{week} - MCQ: Set #{iteration + 1}
 ==============================================
 """
 
