@@ -1,5 +1,5 @@
 ********************************
-Week 05 - Elbow and Humerus
+Week 06 - Elbow and Humerus
 ********************************
 
 .. toctree::
