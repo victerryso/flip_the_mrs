@@ -50,5 +50,5 @@ To finish off the preclass work, you can work through a range of multiple choice
 
 If you are struggling with a particular question, we suggest you post your problem to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=17>`_. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
 
-  - `MCQ1 <mcq_1>`_
-  - `MCQ2 <mcq_2>`_
+  - `MCQ1 <mcq_1.html>`_
+  - `MCQ2 <mcq_2.html>`_
