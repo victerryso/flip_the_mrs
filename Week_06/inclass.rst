@@ -2,7 +2,7 @@ B: In-Class: Attend Lecture
 =============================================
 
 8i. Complete Pre-Class work (9am-10am)
-------------------------------------
+----------------------------------------
 The first half of our lecture time is an opportunity to discuss the Pre-Class readings with your colleagues, post questions to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=14>`_ and complete any outstanding Pre-Class work.
 
 8ii. Q&A and Practical Test Preparation (10am-11am)
