@@ -9,7 +9,7 @@ Image interpretation tutorial in M008 with Mr Steve Littlefair
 
 11. Take a Quiz
 -----------------
-Take an online quiz at `<http://www.imageinterpretation.co.uk>`_
+Unfortunately, there is no quiz availablee for the chest on `<http://www.imageinterpretation.co.uk>`_
 
 
 12. Submit

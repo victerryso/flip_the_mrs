@@ -20,7 +20,7 @@ Using `Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imagi
 
 3. MRSflix
 -----------------------------------
-Watch all short clips about the **Adaptation of Upper Limb Technique** in preparation for practicals.
+Unfortunately, there are no short clips for this week's topic.
 
 `<http://mrsflix.elsdevelopment.com>`_
 
