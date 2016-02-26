@@ -27,7 +27,7 @@ MRSflix officially commences from Week 3 and there are no required videos for We
 
 4. Read Bontrager's Handbook
 ----------------------------
-There are no required readings from `Bontrager's Handbook. <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ in Week 2.
+There are no required readings from `Bontrager's Handbook <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ in Week 2.
 
 .. figure:: /Images/bontrager_logo.jpg
    :target: http://opac.library.usyd.edu.au:80/record=b4698666~S4
@@ -39,16 +39,14 @@ There are no required readings from `Bontrager's Handbook. <http://opac.library.
 -----------
 `Unit Reading List <http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001>`_
 
-`Malone, J., Guleria, R., Craven, C., Horton, P., Järvinen, H., Mayo, J., ... & Rehani, M. (2014). Justification of diagnostic medical exposures: some practical issues. Report of an International Atomic Energy Agency Consultation. The British journal of radiology. <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3479887/>`_
+  - `Malone, J., Guleria, R., Craven, C., Horton, P., Järvinen, H., Mayo, J., ... & Rehani, M. (2014). Justification of diagnostic medical exposures: some practical issues. Report of an International Atomic Energy Agency Consultation. The British journal of radiology. <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3479887/>`_
 
-`Mathews, J. D., Forsythe, A. V., Brady, Z., Butler, M. W., Goergen, S. K., Byrnes, G. B., ... & McGale, P. (2013). Cancer risk in 680 000 people exposed to computed tomography scans in childhood or adolescence: data linkage study of 11 million Australians. <http://usyd.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMwRV1LDsIgEG2Mib87mHcAm8inlLptNB5A18ZSSFxoG-vCQ3hoZ6StOxZ8MhCGGXi8t0ymlLf6Cf9DZIo7q9R89IwUm86SuVSm0Mbmi-RTsmlPMIwatweM3W6oGiJ6Gv7dNp2v8WrgosYBl-89lzM6GrzjZm5gAUbzxMiE5PwODLMEP4XS5sSPsBVNgBBgTR8yHP8bhW6VnA_7U3lMexWCtBVKyzSwGEUeKFApKPUxIsgiqyyjw2xOwVVBDqKqdS2k8LpyzuVZyGh5rNLGXKViQfZ17DeecJc20khchmlQX18RW3g>`_
+  - `Mathews, J. D., Forsythe, A. V., Brady, Z., Butler, M. W., Goergen, S. K., Byrnes, G. B., ... & McGale, P. (2013). Cancer risk in 680 000 people exposed to computed tomography scans in childhood or adolescence: data linkage study of 11 million Australians. <http://usyd.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMwRV1LDsIgEG2Mib87mHcAm8inlLptNB5A18ZSSFxoG-vCQ3hoZ6StOxZ8MhCGGXi8t0ymlLf6Cf9DZIo7q9R89IwUm86SuVSm0Mbmi-RTsmlPMIwatweM3W6oGiJ6Gv7dNp2v8WrgosYBl-89lzM6GrzjZm5gAUbzxMiE5PwODLMEP4XS5sSPsBVNgBBgTR8yHP8bhW6VnA_7U3lMexWCtBVKyzSwGEUeKFApKPUxIsgiqyyjw2xOwVVBDqKqdS2k8LpyzuVZyGh5rNLGXKViQfZ17DeecJc20khchmlQX18RW3g>`_
 
 6. Post to Piazza
 -----------------
-
-`Piazza. <https://piazza.com/class/ikylobq09oe6dy?cid=10>`_
-
 **How to use the discussion board**
+
 No one is expected to read every post made within `Piazza. <https://piazza.com/class/ikylobq09oe6dy?cid=10>`_ Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
 
 7. Take the MCQ

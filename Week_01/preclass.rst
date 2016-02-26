@@ -20,7 +20,7 @@ Usually, you will find a video introducing the week ahead presented by A/Prof Ma
 
 DIP is also available as an app via `the App Store <https://itunes.apple.com/us/app/dip-medical-diagnostic-imaging/id985073740?l>`_ and `Google Play <https://play.google.com/store/apps/details?id=sigmalogic.dip>`_.
 
-From Week 3 onwards, you will be asked to investigate which indications are appropriate for x-ray requests for the [inset weekly topic here].
+From Week 3 onwards, you will be asked to investigate which indications are appropriate for x-ray requests for the [insert weekly topic here].
 
 3. MRSflix
 -----------------------------------
