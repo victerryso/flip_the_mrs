@@ -24,6 +24,13 @@ From Week 3 onwards, you will be asked to investigate which indications are appr
 
 3. MRSflix
 -----------------------------------
+
+.. figure:: /Images/mrsflix-logo.png
+   :target: http://mrsflix.elsdevelopment.com
+   :width: 300px
+   :alt: MRSflix
+   :figclass: reference
+
 Copyright pending, we have made the equivalent of Netflix but for MRS. The series you'll be addicted to this semester is "Patient Positioning", it's first season; "Week 3: The Chest". In all seriousness, each video is less than 3 minutes in duration and should be reviewed to aid preparation for practicals.
 
 `<http://mrsflix.elsdevelopment.com>`_
