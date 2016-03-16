@@ -16,7 +16,7 @@ Weekly Content
 ==============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    /Week_01/index
    /Week_02/index
@@ -30,3 +30,12 @@ Weekly Content
    /Week_10/index
    /Week_11/index
    /Week_12/index
+   QuickLinks <http://mrs.elsdevelopment.com>
+   - MRSflix <http://mrsflix.elsdevelopment.com>
+   - Stats <http://mrs.elsdevelopment.com/dashboard>
+   - MCQ Stats <http://mrs.elsdevelopment.com/mcq>
+   - Blackboard <https://elearning.sydney.edu.au>
+   - Image Interpretation <http://www.imageinterpretation.co.uk>
+   - Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>
+   - Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=8>
+
