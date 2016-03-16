@@ -31,6 +31,7 @@ Weekly Content
    /Week_11/index
    /Week_12/index
    QuickLinks <http://mrs.elsdevelopment.com>
+   - Weekly Notes <https://drive.google.com/folderview?id=0B6CQLltkabxHeXlGN0dKODZJSG8&usp=sharing>
    - MRSflix <http://mrsflix.elsdevelopment.com>
    - Stats <http://mrs.elsdevelopment.com/dashboard>
    - MCQ Stats <http://mrs.elsdevelopment.com/mcq>
