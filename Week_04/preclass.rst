@@ -43,7 +43,6 @@ Read `Bontrager's Handbook <http://opac.library.usyd.edu.au:80/record=b4698666~S
 `Unit Reading List <http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001>`_
 
   - `Tuncer, S., Aksu, N., Dilek, H., Ozkan, T., & Hamzaoglu, A. (2011). Fractures of the fingers missed or misdiagnosed on poorly positioned or poorly taken radiographs: a retrospective study. Journal of Trauma and Acute Care Surgery, 71(3), 649-655. <http://opac.library.usyd.edu.au:80/record=b4147912~S4>`_
-  - `Appleboam, A. (2008). Elbow extension test to rule out elbow fracture: multicentre, prospective validation and observational study of diagnostic accuracy in adults and children <http://opac.library.usyd.edu.au:80/record=b5230949~S4>`_
 
 6. Post to Piazza
 -----------------
