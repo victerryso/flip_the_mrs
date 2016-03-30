@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 5 - Wrist and Forearm
+Welcome to **Week 5 - Wrist and Forearm**
 
-Video to be added
+.. embedded-video:: 160695880
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------
