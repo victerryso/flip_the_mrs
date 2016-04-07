@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 6 - Elbow and Humerus
+Welcome to **Week 6 - Elbow and Humerus**
 
-Video to be added
+.. embedded-video:: 161720654
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------
