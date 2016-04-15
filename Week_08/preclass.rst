@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 8 - Adaptation of Upper Limb Technique
+Welcome to **Week 8 - Adaptation of Upper Limb Technique**
 
-Video to be added
+.. embedded-video:: 162918805
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------

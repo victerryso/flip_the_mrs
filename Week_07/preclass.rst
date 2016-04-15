@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 7 - Shoulder, AC, Clavicle and Scapula
+Welcome to **Week 7 - Shoulder, AC, Clavicle and Scapula**
 
-Video to be added
+.. embedded-video:: 162917363
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------

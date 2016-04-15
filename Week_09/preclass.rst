@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 9 - Toes, Foot and Calcaneum
+Welcome to ***Week 9 - Toes, Foot and Calcaneum***
 
-Video to be added
+.. embedded-video:: 162921019
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------
