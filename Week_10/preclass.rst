@@ -3,9 +3,10 @@ A: Preclass
 
 1. Watch an Intro Clip
 ----------------------
-Welcome to Week 10 - Ankle and Tib Fib
+Welcome to ***Week 10 - Ankle and Tib Fib***
 
-Video to be added
+.. embedded-video:: 164943362
+   :format: vimeo
 
 2. Visit Imaging Pathways
 -------------------------
