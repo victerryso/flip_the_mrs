@@ -6,5 +6,3 @@ Week 08 - Adaptation of Upper Limb Technique
 
      preclass
      inclass
-     practical
-     imageinterpretation

@@ -6,5 +6,3 @@ Week 11 - Knee
 
      preclass
      inclass
-     practical
-     imageinterpretation

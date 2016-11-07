@@ -441,7 +441,7 @@ nav a.reference.internal {
   background-color: #fff !important;
 }
 
-nav a.reference.internal:hover {
+nav a.reference:hover {
   background-color: #eee !important;
 }
 
@@ -465,4 +465,8 @@ a.current {
 a.current.reference.internal {
   border: none;
   border-right: 1px solid #c9c9c9;
+}
+
+html {
+  background: #fcfcfc;
 }

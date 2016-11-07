@@ -6,5 +6,3 @@ Week 04 - Fingers Thumb and Hand
 
      preclass
      inclass
-     practical
-     imageinterpretation

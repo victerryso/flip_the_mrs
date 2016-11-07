@@ -6,5 +6,3 @@ Week 02 - Justification and Request Cards and Chest
 
      preclass
      inclass
-     practical
-     imageinterpretation

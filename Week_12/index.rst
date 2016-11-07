@@ -6,5 +6,3 @@ Week 12 - Bony Thorax and Sternum
 
      preclass
      inclass
-     practical
-     imageinterpretation

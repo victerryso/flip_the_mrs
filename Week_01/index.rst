@@ -6,5 +6,3 @@ Week 01 - Introducing MRSC5001
 
      preclass
      inclass
-     practical
-     imageinterpretation

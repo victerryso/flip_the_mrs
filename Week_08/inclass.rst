@@ -1,13 +1,24 @@
-B: In-Class: Attend Lecture
+In-Class
 =============================================
 
-8i. Complete Pre-Class work (9am-10am)
-----------------------------------------
-The first half of our lecture time is an opportunity to discuss the Pre-Class readings with your colleagues, post questions to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=16>`_ and complete any outstanding Pre-Class work.
+7. Attend Lecture
+---------------------------------------
+- Download: `Lecture Notes <https://drive.google.com/open?id=0B6CQLltkabxHLWFXcWxQNktHVVk>`_
+- Download: `Request Forms <https://drive.google.com/open?id=0B6CQLltkabxHN3hoSW1MbndzSDQ>`_
+- Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=16>`_
 
-8ii. Q&A and Practical Test Preparation (10am-11am)
------------------------------------------------------
-We will be exploring the questions and examining the evidence base (research papers) as well as scaffolding for the Practical Test preparation with typical examination requests.
 
-**Note: Lecture recordings will be available for revision**
-You may revise the second half of our lecture via echo360 via `Blackboard <https://elearning.sydney.edu.au/>`_. Note, it may take 24 hours for recordings to become available.
+8. Take the MCQ
+-----------------
+- `Week 8 - MCQ1 <mcq_1.html>`_
+- `Week 8 - MCQ2 <mcq_2.html>`_
+
+
+9. Attend Image Viewing Tutorial
+---------------------------------------
+There are no handouts for this week.
+
+
+10. Take online quiz
+---------------------------------------
+There is no quiz for this week.

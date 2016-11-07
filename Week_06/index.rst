@@ -6,5 +6,3 @@ Week 06 - Elbow and Humerus
 
      preclass
      inclass
-     practical
-     imageinterpretation

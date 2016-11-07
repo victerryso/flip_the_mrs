@@ -1,58 +1,70 @@
-A: Preclass
+Pre-Class
 ===============
 
-1. Watch an Intro Clip
+1. Introduction Video
 ----------------------
 Welcome to **Week 3 - Chest**
 
 .. embedded-video:: 155333854
    :format: vimeo
 
+
 2. Visit Imaging Pathways
 -------------------------
 
-.. figure:: /Images/imaging_pathways_logo.png
+.. figure:: /Images/imaging_logo.png
    :target: http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways
-   :width: 480px
+   :width: 300px
    :alt: Imaging Pathways
    :figclass: reference
 
-Using `Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_ investigate which indications are appropriate for x-ray requests for the **Chest**.
+Learn about: `Chest Imaging <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>`_
 
-3. MRSflix
+
+3. Watch MRSflix
 -----------------------------------
-Watch all short clips about the **Chest** in preparation for practicals.
 
-`<http://mrsflix.elsdevelopment.com>`_
+.. figure:: /Images/mrsflix_logo.png
+   :target: http://mrsflix.elsdevelopment.com
+   :width: 300px
+   :alt: MRSflix
+   :figclass: reference
+
+Watch some: `Chest Videos <http://mrsflix.elsdevelopment.com>`_
+
 
 4. Read Bontrager's Handbook
 ----------------------------
-Read `Bontrager's Handbook <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_ about the radiographic positioning and techniques for the **Chest**.
 
-.. figure:: /Images/bontrager_logo.jpg
+.. figure:: /Images/bontrager_logo.png
    :target: http://opac.library.usyd.edu.au:80/record=b4698666~S4
    :width: 300px
    :alt: Bontrager's Handbook
    :figclass: reference
 
-5. Read an Article
-------------------
-`Unit Reading List <http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001>`_
+Read the: `Bontrager's Handbook <http://opac.library.usyd.edu.au:80/record=b4698666~S4>`_
 
-  - Read `Online Radiography Continuing Education for Radiologic X-Ray Technologist <https://www.ceessentials.net/article25.html>`_
+
+5. Read Library Articles
+------------------------
+
+.. figure:: /Images/library_logo.png
+   :target: http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001
+   :width: 300px
+   :alt: USYD Library
+   :figclass: reference
+
+- `Unit Reading List <http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001>`_
+- `Online Radiography Continuing Education for Radiologic X-Ray Technologist <https://www.ceessentials.net/article25.html>`_
+
 
 6. Post to Piazza
 -----------------
-`Piazza. <https://piazza.com/class/ikylobq09oe6dy?cid=11>`_
 
-7. Take the MCQ
------------------
-To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. There are approximately 20 questions per page and you may take as many or as few as you like.
+.. figure:: /Images/piazza_logo.png
+   :target: https://piazza.com/class/ikylobq09oe6dy
+   :width: 300px
+   :alt: Piazza
+   :figclass: reference
 
-If you are struggling with a particular question, we suggest you post your problem to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=11>`_. However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction. 
-
-  - `Week 3 - MCQ1 <mcq_1.html>`_
-  - `Week 3 - MCQ2 <mcq_2.html>`_
-  - `Week 3 - MCQ3 <mcq_3.html>`_
-  - `Week 3 - MCQ4 <mcq_4.html>`_
-  - `Week 3 - MCQ5 <mcq_5.html>`_
+Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=11>`_

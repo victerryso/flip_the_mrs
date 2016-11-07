@@ -6,5 +6,3 @@ Week 03 - Chest
 
      preclass
      inclass
-     practical
-     imageinterpretation

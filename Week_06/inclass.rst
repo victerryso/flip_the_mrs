@@ -1,13 +1,27 @@
-B: In-Class: Attend Lecture
+In-Class
 =============================================
 
-8i. Complete Pre-Class work (9am-10am)
-----------------------------------------
-The first half of our lecture time is an opportunity to discuss the Pre-Class readings with your colleagues, post questions to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=14>`_ and complete any outstanding Pre-Class work.
+7. Attend Lecture
+---------------------------------------
+- Download: `Lecture Notes <https://drive.google.com/open?id=0B6CQLltkabxHLWFXcWxQNktHVVk>`_
+- Download: `Request Forms <https://drive.google.com/open?id=0B6CQLltkabxHN3hoSW1MbndzSDQ>`_
+- Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=14>`_
 
-8ii. Q&A and Practical Test Preparation (10am-11am)
------------------------------------------------------
-We will be exploring the questions and examining the evidence base (research papers) as well as scaffolding for the Practical Test preparation with typical examination requests.
 
-**Note: Lecture recordings will be available for revision**
-You may revise the second half of our lecture via echo360 via `Blackboard <https://elearning.sydney.edu.au/>`_. Note, it may take 24 hours for recordings to become available.
+8. Take the MCQ
+-----------------
+- `Week 6 - MCQ1 <mcq_1.html>`_
+- `Week 6 - MCQ2 <mcq_2.html>`_
+- `Week 6 - MCQ3 <mcq_3.html>`_
+- `Week 6 - MCQ4 <mcq_4.html>`_
+- `Week 6 - MCQ5 <mcq_5.html>`_
+
+
+9. Attend Image Viewing Tutorial
+---------------------------------------
+Download: `Handouts <https://drive.google.com/open?id=0B6CQLltkabxHQm54NVk5UGZGY0E>`_
+
+
+10. Take online quiz
+---------------------------------------
+Complete: `Image Interpretation Quiz <http://www.imageinterpretation.co.uk>`_

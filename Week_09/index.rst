@@ -6,5 +6,3 @@ Week 09 - Toes, Foot and Calcaneum
 
      preclass
      inclass
-     practical
-     imageinterpretation

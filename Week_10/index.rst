@@ -6,5 +6,3 @@ Week 10 - Ankle and Tib Fib
 
      preclass
      inclass
-     practical
-     imageinterpretation

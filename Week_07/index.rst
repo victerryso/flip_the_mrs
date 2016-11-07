@@ -6,5 +6,3 @@ Week 07 - Shoulder, AC, Clavicle and Scapula
 
      preclass
      inclass
-     practical
-     imageinterpretation

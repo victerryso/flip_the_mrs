@@ -1,14 +1,30 @@
-B: In-Class: Attend Lecture
+In-Class
 =============================================
 
-8i. Complete Pre-Class work (9am-10am)
+7. Attend Lecture
 ---------------------------------------
+- Download: `Lecture Notes <https://drive.google.com/open?id=0B6CQLltkabxHLWFXcWxQNktHVVk>`_
+- Download: `Request Forms <https://drive.google.com/open?id=0B6CQLltkabxHN3hoSW1MbndzSDQ>`_
+
 The first half of our lecture time is an opportunity to discuss the Pre-Class readings with your colleagues, post questions to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=8>`_ and complete any outstanding Pre-Class work.
 
-8ii. Q&A and Practical Test Preparation (10am-11am)
------------------------------------------------------
-We will be exploring the questions and examining the evidence base (research papers) as well as scaffolding for the Practical Test preparation with typical examination requests.
 
-**Note: Lecture recordings will be available for revision**
+8. Take the MCQ
+-----------------
+To finish off the preclass work, you can work through a range of multiple choice questions (MCQ) for that week. The MCQs aim to help you to self-assess your understanding of the weeks content. If you are struggling with a particular question, we suggest you post your problem to `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=8>`_ However, we ask that you refrain from posting assignment solutions directly, instead we encourage you to offer some friendly direction.
 
-You may revise the second half of our lecture via echo360 via `Blackboard <https://elearning.sydney.edu.au/>`_. Note, it may take 24 hours for recordings to become available.
+MCQs will be available from Week 3 onwards.
+
+
+9. Attend Image Viewing Tutorial
+---------------------------------------
+Image interpretation tutorial in M008 with Mr Steve Littlefair
+
+Note, handouts for the image interpretation will be available from Week 2.
+
+
+10. Take online quiz
+---------------------------------------
+Take an online quiz at `Image Interpretations <http://www.imageinterpretation.co.uk>`_.
+
+Note, you are not required to take a quiz in Weeks 1, 2, 3, 8 and 12.

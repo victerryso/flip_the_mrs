@@ -6,5 +6,3 @@ Week 05 - Wrist and Forearm
 
      preclass
      inclass
-     practical
-     imageinterpretation
