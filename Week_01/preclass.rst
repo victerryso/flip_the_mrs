@@ -59,7 +59,7 @@ For Week 1 only, we ask that you simply access `Bontrager's Handbook <http://opa
    :alt: USYD Library
    :figclass: reference
 
-From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class to discuss articles with colleagues and post relevant questions to `Piazza. <https://piazza.com/class/ikylobq09oe6dy?cid=8>`_
+From week two onwards, you will find either a link to a PDF or to the library to a required reading. You will have time in the first hour of class to discuss articles with colleagues and post relevant questions to `Piazza. <https://piazza.com/class/ivd39iavqrk2qd>`_
 
 However, I would highly recommend bookmarking the `Library Unit Readings <http://opac.library.usyd.edu.au/search/r?SEARCH=MRSC5001>`_.
 
@@ -68,13 +68,13 @@ However, I would highly recommend bookmarking the `Library Unit Readings <http:/
 -----------------
 
 .. figure:: /Images/piazza_logo.png
-   :target: https://piazza.com/class/ikylobq09oe6dy
+   :target: https://piazza.com/class/ivd39iavqrk2qd
    :width: 300px
    :alt: Piazza
    :figclass: reference
 
-`Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=8>`_ is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class to post and answer questions.
+`Piazza <https://piazza.com/class/ivd39iavqrk2qd>`_ is our discussion forum which will facilitate interaction among the class for the entire semester. Post a question, and problems will get unstuck with the help of your classmates and teaching staff. The site is completely searchable, so it may be quite useful during times of revision. You will have time in class to post and answer questions.
 
 **How to use the discussion board**
 
-No one is expected to read every post made within `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=8>`_. Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.
+No one is expected to read every post made within `Piazza <https://piazza.com/class/ivd39iavqrk2qd>`_. Rather, read those that seem interesting to you and reply when you can further the conversation. Above all, you are expected to remain civil and treat all other students with respect.

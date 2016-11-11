@@ -39,4 +39,4 @@ Weekly Content
    Blackboard <https://elearning.sydney.edu.au>
    Image Interpretation <http://www.imageinterpretation.co.uk>
    Imaging Pathways <http://imagingpathways.health.wa.gov.au/index.php/imaging-pathways>
-   Piazza <https://piazza.com/class/ikylobq09oe6dy>
+   Piazza <https://piazza.com/class/ivd39iavqrk2qd>

@@ -45,4 +45,4 @@ There are no readings from the handbook for you to read this week.
 6. Post to Piazza
 -----------------
 
-Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=10>`_
+Post your questions to: `Piazza <https://piazza.com/class/ivd39iavqrk2qd>`_

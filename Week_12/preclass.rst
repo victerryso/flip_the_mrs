@@ -52,9 +52,9 @@ There are no readings for you this week.
 -----------------
 
 .. figure:: /Images/piazza_logo.png
-   :target: https://piazza.com/class/ikylobq09oe6dy
+   :target: https://piazza.com/class/ivd39iavqrk2qd
    :width: 300px
    :alt: Piazza
    :figclass: reference
 
-Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=20>`_
+Post your questions to: `Piazza <https://piazza.com/class/ivd39iavqrk2qd>`_

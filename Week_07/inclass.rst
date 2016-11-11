@@ -5,7 +5,7 @@ In-Class
 ---------------------------------------
 - Download: `Lecture Notes <https://drive.google.com/open?id=0B6CQLltkabxHLWFXcWxQNktHVVk>`_
 - Download: `Request Forms <https://drive.google.com/open?id=0B6CQLltkabxHN3hoSW1MbndzSDQ>`_
-- Post your questions to: `Piazza <https://piazza.com/class/ikylobq09oe6dy?cid=15>`_
+- Post your questions to: `Piazza <https://piazza.com/class/ivd39iavqrk2qd>`_
 
 
 8. Take the MCQ
